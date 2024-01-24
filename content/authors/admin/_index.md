@@ -40,10 +40,10 @@ education:
     - course: PhD in Artificial Intelligence
       institution: RWTH Aachen University, Germany
       year: 2024
-    - course: MEng in General Engineering, Mechatronics Expertise
+    - course: M.Sc in General Engineering, Mechatronics Expertise
       institution: Arts et Métiers ParisTech - École Nationale Supérieure d'Arts et Métiers, France
       year: 2014
-    - course: BSc in Mechatronics Engineering
+    - course: B.Sc in Mechatronics Engineering
       institution: EIA University, Colombia
       year: 2012
 
