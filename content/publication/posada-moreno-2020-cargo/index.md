@@ -57,7 +57,7 @@ featured: false
 url_pdf: https://publications.rwth-aachen.de/record/784705/files/784705.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://bmdv.bund.de/SharedDocs/DE/Anlage/DG/mFUND/Quiss-e-poster.pdf?__blob=publicationFile'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -80,5 +80,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['quiss']
 ---

@@ -89,7 +89,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['iop']
 links:
 - name: URL
   url: https://www.mdpi.com/2073-4360/15/8/1884

@@ -93,7 +93,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['iop']
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2351978920319831

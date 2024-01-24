@@ -78,7 +78,10 @@ sections:
           location: Colombia
           date_start: '2014-07-01'
           date_end: '2014-11-30'
-          description: Taught mechatronic design.
+          description: |2-
+              Responsibilities include:
+
+              * Teaching: Lecturer on the "Mechatronics Design" lecture for 8th semester undergraduate students.
     design:
       columns: '2'
 #  - block: accomplishments
@@ -150,33 +153,33 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '2'
-#  - block: portfolio
-#    id: projects
-#    content:
-#      title: Projects
-#      filters:
-#        folders:
-#          - project
-#      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-#      default_button_index: 0
-#      # Filter toolbar (optional).
-#      # Add or remove as many filters (`filter_button` instances) as you like.
-#      # To show all items, set `tag` to "*".
-#      # To filter by a specific tag, set `tag` to an existing tag name.
-#      # To remove the toolbar, delete the entire `filter_button` block.
-#      buttons:
-#        - name: All
-#          tag: '*'
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
 #        - name: Deep Learning
 #          tag: Deep Learning
 #        - name: Other
 #          tag: Demo
-#    design:
-#      # Choose how many columns the section has. Valid values: '1' or '2'.
-#      columns: '1'
-#      view: showcase
-#      # For Showcase view, flip alternate rows?
-#      flip_alt_rows: false
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 #  - block: markdown
 #    content:
 #      title: Gallery
@@ -195,7 +198,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: Compact
   - block: collection
     content:
       title: Recent Publications
@@ -209,7 +212,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: Compact
 #  - block: collection
 #    id: talks
 #    content:
