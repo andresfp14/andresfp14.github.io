@@ -1,18 +1,14 @@
 ---
 title: 'ECLAD: Extracting Concepts with Local Aggregated Descriptors'
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Andrés Felipe Posada-Moreno
 - Nikita Surya
 - Sebastian Trimpe
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -34,13 +30,6 @@ publication_short: ''
 
 doi: 10.1016/j.patcog.2023.110146
 
-=======
-date: '2023-11-22'
-publishDate: '2024-01-23T16:18:17.718361Z'
-publication_types:
-- article-journal
-doi: 10.1016/j.patcog.2023.110146
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: Convolutional neural networks (CNNs) are increasingly being used in critical
   systems, where robustness and alignment are crucial. In this context, the field
   of explainable artificial intelligence has proposed the generation of high-level
@@ -55,7 +44,6 @@ abstract: Convolutional neural networks (CNNs) are increasingly being used in cr
   of their main components, mitigating possible confirmation biases induced by human
   visual inspection. Extensive experimentation on both synthetic and real-world datasets
   demonstrates that our method outperforms state-of-the-art alternatives.
-<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'A novel method for automatic concept extraction and localization based on representations obtained through pixel-wise aggregations of CNN activation maps.'
@@ -96,13 +84,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
-tags:
-- /unread
-- Concept extraction
-- Convolutional neural networks
-- Explainable artificial intelligence
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0031320323008439

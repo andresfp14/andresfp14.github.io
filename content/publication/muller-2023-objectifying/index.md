@@ -1,20 +1,16 @@
 ---
 title: Objectifying Machine Setup and Parameter Selection in Expert Knowledge Dependent
   Industries Using Invertible Neural Networks
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Kai Müller
 - Andrés Posada-Moreno
 - Lukas Pelzer
 - Thomas Gries
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -37,15 +33,6 @@ publication_short: ''
 
 doi: 10.1007/978-3-031-18326-3_29
 
-=======
-date: '2023-01-01'
-publishDate: '2024-01-23T16:18:17.678587Z'
-publication_types:
-- paper-conference
-publication: '*Flexible Automation and Intelligent Manufacturing: The Human-Data-Technology
-  Nexus*'
-doi: 10.1007/978-3-031-18326-3_29
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: The textile industry is one of the oldest and largest industries in the
   world. The fields of application for textile products are diverse. Although the
   technologies for manufacturing textiles are extensively researched, the industry
@@ -61,21 +48,15 @@ abstract: The textile industry is one of the oldest and largest industries in th
   are generated using an invertible neural network (INN) based on pre-defined target
   parameters. The results can be used to identify trends in machine settings and respond
   accordingly. Thus, a reduction of machine setting time could be realized.
-<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'Using invertible neural networks and expert knowledge for parameter prediction in industrial applications.'
 
 tags:
-=======
-tags:
-- /unread
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 - Neural network
 - Process parameters
 - Production management
 - Textile production
-<<<<<<< HEAD
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -108,6 +89,4 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 ---

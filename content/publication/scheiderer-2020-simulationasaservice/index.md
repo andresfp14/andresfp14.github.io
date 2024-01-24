@@ -1,14 +1,11 @@
 ---
 title: Simulation-as-a-Service for Reinforcement Learning Applications by Example
   of Heavy Plate Rolling Processes
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Christian Scheiderer
 - Timo Thun
@@ -18,7 +15,6 @@ authors:
 - Johannes Lohmar
 - Gerhard Hirt
 - Tobias Meisen
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -40,13 +36,6 @@ publication_short: ''
 
 doi: 10.1016/j.promfg.2020.10.126
 
-=======
-date: '2020-01-01'
-publishDate: '2024-01-23T16:18:17.741207Z'
-publication_types:
-- article-journal
-doi: 10.1016/j.promfg.2020.10.126
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: In the production industry, the digital transformation enables a significant
   optimization potential. The concept of reinforcement learning offers a suitable
   approach to train agents on learning control strategies, further advancing automation.
@@ -64,21 +53,15 @@ abstract: In the production industry, the digital transformation enables a signi
   for a simulation of the multi-step metal forming process of heavy plate rolling.
   Furthermore, the implemented architecture is used to successfully train a reinforcement-learning
   agent on the task of designing optimal parameter schedules.
-<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'In this paper we propose a distributed architecture which allows the remote training of reinforcement learning agents on a simulation.'
 
 tags:
-=======
-tags:
-- /unread
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 - Distributed Architecture
 - Machine Economy
 - Reinforcement Learning
 - Simulation-as-a-service
-<<<<<<< HEAD
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -111,13 +94,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2351978920319831
 ---
-<<<<<<< HEAD
-
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014

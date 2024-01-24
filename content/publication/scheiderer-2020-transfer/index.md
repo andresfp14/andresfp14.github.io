@@ -1,20 +1,16 @@
 ---
 title: Transfer of Hierarchical Reinforcement Learning Structures for Robotic Manipulation
   Tasks
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Christian Scheiderer
 - Malte Mosbach
 - Andrés Felipe Posada-Moreno
 - Tobias Meisen
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -37,15 +33,6 @@ publication_short: ''
 
 doi: 10.1109/CSCI51800.2020.00091
 
-=======
-date: '2020-12-01'
-publishDate: '2024-01-23T16:18:17.748864Z'
-publication_types:
-- paper-conference
-publication: '*2020 International Conference on Computational Science and Computational
-  Intelligence (CSCI)*'
-doi: 10.1109/CSCI51800.2020.00091
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: While it is apparent that the transfer of knowledge between tasks is beneficial
   for training efficiency, the application of trained deep reinforcement learning
   agents to solve new tasks is not trivial. Especially when tasks are differently
@@ -59,7 +46,6 @@ abstract: While it is apparent that the transfer of knowledge between tasks is b
   top of pre-trained low-level skills. In the fourth scenario we uncover the reason
   for a failed transfer to be an ambitious higher hierarchy level enforcing a relearning
   of the low-level skills.
-<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'In this paper we investigate the possibility of reusing low-level policies to improve training efficiency when learning manipulation tasks with an industrial robot.'
@@ -98,10 +84,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
-tags:
-- /unread
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9458186

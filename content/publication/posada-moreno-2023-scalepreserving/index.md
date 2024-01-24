@@ -1,19 +1,15 @@
 ---
 title: Scale-Preserving Automatic Concept Extraction (SPACE)
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Andrés Felipe Posada-Moreno
 - Lukas Kreisköther
 - Tassilo Glander
 - Sebastian Trimpe
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -35,13 +31,6 @@ publication_short: ''
 
 doi: 10.1007/s10994-023-06373-2
 
-=======
-date: '2023-11-01'
-publishDate: '2024-01-23T16:18:17.733428Z'
-publication_types:
-- article-journal
-doi: 10.1007/s10994-023-06373-2
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: Convolutional Neural Networks (CNN) have become a common choice for industrial
   quality control, as well as other critical applications in the Industry 4.0. When
   these CNNs behave in ways unexpected to human users or developers, severe consequences
@@ -63,13 +52,10 @@ abstract: Convolutional Neural Networks (CNN) have become a common choice for in
   we illustrate how SPACE outperforms other methods and provides actionable insights
   on the decision mechanisms of CNNs. Finally, code for the implementation of SPACE
   is provided.
-<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'We introduce the Scale-Preserving Automatic Concept Extraction (SPACE) algorithm, as a state-of-the-art alternative concept extraction technique for CNNs, focused on industrial applications.'
 
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 tags:
 - 68T01
 - 68T20
@@ -77,7 +63,6 @@ tags:
 - Image processing
 - Industry
 - Neural networks
-<<<<<<< HEAD
 
 # Display this page in a list of Featured pages?
 featured: true
@@ -110,8 +95,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://doi.org/10.1007/s10994-023-06373-2

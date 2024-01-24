@@ -1,20 +1,16 @@
 ---
 title: Holistic Data Infrastructure and Analytics System for Rail Freight Transport
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Thomas Otte
 - Holger Bartels
 - Andres Felipe Posada Moreno
 - Georg Wittenburg
 - Marc Haßler
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -85,14 +81,4 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
-date: '2020-01-01'
-publishDate: '2024-01-23T16:18:17.685841Z'
-publication_types:
-- book
-publication: '*Universitätsbibliothek der RWTH Aachen*'
-tags:
-- /unread
-url_pdf: http://publications.rwth-aachen.de/record/793532/files/793532.pdf
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 ---

@@ -1,13 +1,10 @@
 ---
 title: Cargo Wagon Structural Health Estimation Using Computer Vision
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - A. F. Posada-Moreno
 - C. Klein
@@ -15,7 +12,6 @@ authors:
 - D. Pehar
 - A. F. Solvay
 - C. P. Kohlschein
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -85,13 +81,4 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
-date: '2020-01-01'
-publishDate: '2024-01-23T16:18:17.705801Z'
-publication_types:
-- article-journal
-tags:
-- /unread
-url_pdf: https://publications.rwth-aachen.de/record/784705/files/784705.pdf
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 ---

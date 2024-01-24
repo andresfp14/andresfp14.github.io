@@ -1,13 +1,10 @@
 ---
 title: Towards Cargo Wagons Brake Health Scoring through Image Processing.
-<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
-=======
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Andres Felipe Posada-Moreno
 - Thomas Otte
@@ -16,7 +13,6 @@ authors:
 - Holger Bartels
 - Anas Abdelrazeq
 - Frank Hees
-<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -87,14 +83,4 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-=======
-date: '2022-01-01'
-publishDate: '2024-01-23T16:18:17.712084Z'
-publication_types:
-- paper-conference
-publication: '*ICPRAM*'
-tags:
-- /unread
-url_pdf: https://www.scitepress.org/Papers/2022/108243/108243.pdf
->>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 ---
