@@ -1,17 +1,21 @@
 ---
 title: Process Parameter Prediction for Fused Deposition Modeling Using Invertible
   Neural Networks
+<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+=======
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Lukas Pelzer
 - Andrés Felipe Posada-Moreno
 - Kai Müller
 - Christoph Greb
 - Christian Hopmann
+<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -33,6 +37,14 @@ publication_short: ''
 
 doi: 10.3390/polym15081884
 
+=======
+date: '2023-01-01'
+publishDate: '2024-01-23T16:18:17.698305Z'
+publication_types:
+- article-journal
+publication: '*Multidisciplinary Digital Publishing Institute*'
+doi: 10.3390/polym15081884
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: Additive manufacturing has revolutionized prototyping and small-scale production
   in the past years. By creating parts layer by layer, a tool-less production technology
   is established, which allows for rapid adaption of the manufacturing process and
@@ -47,17 +59,23 @@ abstract: Additive manufacturing has revolutionized prototyping and small-scale 
   capable of closely replicating the desired part. Validation trials prove the precision
   of the solution with measured properties achieving the desired properties to up
   to 99.96% and a mean accuracy of 85.34%.
+<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'Process Parameter Prediction for Fused Deposition Modeling Using Invertible Neural Networks.'
 
 tags:
+=======
+tags:
+- /unread
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 - additive manufacturing
 - fused deposition modeling
 - neural network
 - part quality
 - process parameters
 - production management
+<<<<<<< HEAD
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -90,9 +108,14 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+=======
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://www.mdpi.com/2073-4360/15/8/1884
 ---
+<<<<<<< HEAD
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+=======
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014

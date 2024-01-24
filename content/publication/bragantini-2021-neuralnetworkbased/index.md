@@ -1,15 +1,19 @@
 ---
 title: 'Neural-Network-based State Estimation: The Effect of Pseudo- Measurements'
+<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+=======
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Andrea Bragantini
 - Davide Baroli
 - Andres Felipe Posada-Moreno
 - Andrea Benigni
+<<<<<<< HEAD
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -31,6 +35,14 @@ publication_short: ''
 
 doi: 10.1109/ISIE45552.2021.9576442
 
+=======
+date: '2021-06-01'
+publishDate: '2024-01-23T16:18:17.671381Z'
+publication_types:
+- paper-conference
+publication: '*2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)*'
+doi: 10.1109/ISIE45552.2021.9576442
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: This work wants to contribute to the current research effort of exploiting
   deep learning models to tackle the problem of state estimation in power systems.
   In this contribution, we propose first a methodology for generating data-sets in
@@ -40,6 +52,7 @@ abstract: This work wants to contribute to the current research effort of exploi
   between models which use additional pseudo-measurements in input and those which
   do not. Simulation results carried out on the IEEE 95-bus system and low voltage
   to-bus test network support the conclusions of the proposed framework.
+<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'Tackling the problem of state estimation in power systems using Deep learning models.'
@@ -78,6 +91,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+=======
+tags:
+- /unread
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/9576442

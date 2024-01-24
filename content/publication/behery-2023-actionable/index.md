@@ -1,10 +1,13 @@
 ---
 title: Actionable Artificial Intelligence for the Future of Production
+<<<<<<< HEAD
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+=======
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 authors:
 - Mohamed Behery
 - Philipp Brauner
@@ -44,6 +47,7 @@ authors:
 - Torsten W. Kuhlen
 - Johannes Henrich Schleifenbaum
 - Sebastian Trimpe
+<<<<<<< HEAD
 - Wil M. P. van der Aalst
 - Martina Ziefle
 - Gerhard Lakemeyer
@@ -68,6 +72,17 @@ publication_short: ''
 
 doi: 10.1007/978-3-030-98062-7_4-1
 
+=======
+- given=Wil M. P., prefix=van der, useprefix=false family=Aalst
+- Martina Ziefle
+- Gerhard Lakemeyer
+date: '2023-01-01'
+publishDate: '2024-01-23T16:18:17.659643Z'
+publication_types:
+- chapter
+publication: '*Internet of Production: Fundamentals, Applications and Proceedings*'
+doi: 10.1007/978-3-030-98062-7_4-1
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 abstract: The Internet of Production (IoP) promises to be the answer to major challenges
   facing the Industrial Internet of Things (IIoT) and Industry 4.0. The lack of inter-company
   communication channels and standards, the need for heightened safety in Human Robot
@@ -76,6 +91,7 @@ abstract: The Internet of Production (IoP) promises to be the answer to major ch
   and data exchange within the World Wide Lab (WWL) and autonomous agents that query
   the WWL which is built on the Digital Shadows (DS). We categorize our approaches
   into
+<<<<<<< HEAD
 
 # Summary. An optional shortened abstract.
 summary: 'Compilation of fundamentals and applications of AI and data based systems in the context of the Industry 4.0.'
@@ -114,6 +130,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+=======
+tags:
+- /unread
+>>>>>>> e5529c18a5b42171fa9e0d3f4b00ecbf35a8a014
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-98062-7_4-1
