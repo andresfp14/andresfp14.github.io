@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Scientific Researcher and Doctoral student in eXplainable Artificial Intelligence
+role: Postdoc Researcher in eXplainable Artificial Intelligence (XAI) and Foundation Models
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,14 +25,16 @@ organizations:
     url: https://https://www.dsme.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include eXplainable Artificial Intelligence (XAI) and applied AI.
+bio: My research interests include eXplainable Artificial Intelligence (XAI), Foundation Models, and applied AI.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - eXplainable Artificial Intelligence
   - Neural Networks
+  - Foundation Models
   - Computer Vision
+  - Time Series
 
 # Education to show in About widget
 education:
@@ -121,9 +123,8 @@ social:
 highlight_name: true
 ---
 
-Hi there! Since April 2021, I am a PhD student at the [Institute for Data Science in Mechanical Engineering](https://www.dsme.rwth-aachen.de/cms/~ibtrg/DSME/lidx/1/) (DSME) at [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1) under the supervision of [Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team/~jlolt/Prof-Sebastian-Trimpe/?allou=1), and an associate doctoral researcher at the [Cluster of Excellence 'Internet of Production'](https://www.iop.rwth-aachen.de/cms/~gpfz/produktionstechnik/?lidx=1) funded by the [DFG](https://gepris.dfg.de/gepris/projekt/390621612?language=en). Currently I'm waiting for my dissertation defense before continuing as a postdoc at the DSME until mid 2025.
+Hi there! Since **September 2024**, I am a **postdoctoral researcher** at the [Institute for Data Science in Mechanical Engineering](https://www.dsme.rwth-aachen.de/cms/~ibtrg/DSME/lidx/1/) (DSME) at [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1), focusing on both **Foundation Models** and **Explainable Artificial Intelligence (XAI)**. I completed my PhD under the supervision of [Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team/~jlolt/Prof-Sebastian-Trimpe/?allou=1), and was an associate doctoral researcher at the [Cluster of Excellence "Internet of Production"](https://www.iop.rwth-aachen.de/cms/~gpfz/produktionstechnik/?lidx=1) funded by the [DFG](https://gepris.dfg.de/gepris/projekt/390621612?language=en).
 
-Prior to that, I completed a bachelor's degree in **mechatronics engineering** at the [EIA University](https://www.eia.edu.co/#), a master's degree in **engineering** at the [Arts et Métiers ParisTech](https://artsetmetiers.fr/en), worked on agroindustrial applications of IOT and AI at [Asimetrix](https://asimetrix.co/), and worked as a researcher on applied AI at the [IMA Cybernetics Lab, RWTH Aachen University](https://cybernetics-lab.de/en/%C3%BCber-uns).
+Prior to that, I completed a bachelor's degree in **mechatronics engineering** at the [EIA University](https://www.eia.edu.co/#), a master's degree in **engineering** at the [Arts et Métiers ParisTech](https://artsetmetiers.fr/en), worked on agroindustrial applications of IoT and AI at [Asimetrix](https://asimetrix.co/), and worked as a researcher on applied AI at the [IMA Cybernetics Lab, RWTH Aachen University](https://cybernetics-lab.de/en/%C3%BCber-uns).
 
-My research interests lie in the fields of explainable artificial intelligence (XAI) and applied AI. I am interested in the internal representations learned by neural networks and how these representations relate to human-understandable concepts. More specifically, I'm interested in methods for concept extraction and active learning and their usage in industrial applications. Recently I've started to explore foundation models, their latent representations and how they apply in industrial timeseries scenarios.
-
+My research interests lie in the fields of **Explainable Artificial Intelligence (XAI)**, **Foundation Models**, and **applied AI**. I am interested in the internal representations learned by neural networks, how can they be transferred and how these representations relate to human-understandable concepts. More specifically, I'm focused on methods for concept extraction and active learning and their usage in industrial applications. Recently, I've been exploring foundation models, their latent representations, and how they apply in industrial time-series scenarios.

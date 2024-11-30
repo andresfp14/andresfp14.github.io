@@ -31,13 +31,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Scientific Researcher
+      - title: Postdoctoral researcher
+          company: DSME - RWTH Aachen University
+          company_url: ''
+          company_logo: org-rwth
+          location: Germany
+          date_start: '2024-09-18'
+          date_end: '2025-12-31'
+          description: |2-
+              Responsibilities include:
+              * Student Supervision: Supervision of bachelor and master student thesis, as well as guidance of doctoral students.  
+              * Foundation Models Research: Exploring foundation models, their latent representations, and their application in industrial time-series scenarios.
+              * eXplainable Artificial Intelligence Research: Specialized in global explainability methods (concept extraction) for deep neural networks.
+        - title: Scientific researcher and doctoral student
           company: DSME - RWTH Aachen University
           company_url: ''
           company_logo: org-rwth
           location: Germany
           date_start: '2021-04-01'
-          date_end: ''
+          date_end: '2024-09-18'
           description: |2-
               Responsibilities include:
 
@@ -46,7 +58,7 @@ sections:
               * eXplainable Artificial Intelligence Research: Specialized in global explainability methods (concept extraction) for deep neural networks.
               * Organization of Seminar series: Organization of the "Research Seminar on AI" [RSAI](https://www.ai.rwth-aachen.de/cms/ki/veranstaltungen/events/~bemeze/research-seminar-on-ai-rsai-/?lidx=1).
               * Excellence cluster: Co-lead of the AI expert group at the excellence cluster "Internet of Production".
-        - title: Scientific Researcher
+        - title: Scientific researcher
           company: IMA - RWTH Aachen University
           company_url: ''
           company_logo: org-rwth
@@ -59,7 +71,7 @@ sections:
               * Lecturer: Lecturer on the subject "Artificial Intelligence and Data Analytics for Engineers".
               * Student Supervision: Supervision of bachelor and master student thesis.  
               * Applied Artificial Intelligence Research: Specialized in the application of neural networks to high-dimensional data scenarios.
-        - title: Technology Analyst
+        - title: Technology analyst
           company: Asimetrix
           company_url: ''
           company_logo: org-asimetrix
