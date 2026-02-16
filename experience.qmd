@@ -9,7 +9,7 @@ toc: false
 **DSME - RWTH Aachen University** | Germany | Sep 2024 -- Present
 :::
 
-- **Foundation Models for Dynamical Systems**: Researching transformer-based foundation models pretrained on synthetic data for prediction and control of dynamical systems. Funded by the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory), part of the EuroHPC JU initiative.
+- **Foundation Models for Dynamical Systems**: Researching transformer-based foundation models pretrained on synthetic data for prediction and control of dynamical systems. Funded by the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory), part of the EuroHPC initiative.
 - **Student Supervision**: Supervision of bachelor and master student thesis, as well as guidance of doctoral students.
 - **eXplainable Artificial Intelligence Research**: Specialized in global explainability methods (concept extraction) for deep neural networks.
 

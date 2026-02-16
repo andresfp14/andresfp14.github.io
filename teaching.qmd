@@ -50,44 +50,58 @@ toc: true
 ## Supervised Theses
 
 ::: {.experience-entry}
+### TBD
+::: {.experience-meta}
+**Lukas Haverbeck** | Master Thesis | 2026
+:::
+:::
+
+::: {.experience-entry}
+### Foundation Models for Industrial Time Series
+::: {.experience-meta}
+**Noah Drein** | Master Thesis | 2026
+:::
+:::
+
+::: {.experience-entry}
+### Semi-Supervised Learning Approaches for Fault Detection and Isolation in Automotive Powertrain Systems
+::: {.experience-meta}
+**Jonas Kneppe** | Master Thesis | Co-supervisor: Tobias Brinkmann | 2025
+:::
+:::
+
+::: {.experience-entry}
+### Combining Foundation Models with Classical State Estimation
+::: {.experience-meta}
+**Tobin Holtmann** | Master Thesis | Co-supervisor: David Stenger | 2025
+:::
+:::
+
+::: {.experience-entry}
+### Foundation Models for Dynamical Systems
+::: {.experience-meta}
+**Martin Ziegler** | Master Thesis | Co-supervisor: Friedrich Solowjow | 2024
+:::
+:::
+
+::: {.experience-entry}
 ### AI Enhanced Fatigue Strength Prediction for Ductile Cast Iron
 ::: {.experience-meta}
-**Yao Yao** | Master Thesis | Co-supervisor: Felix Weber
+**Yao Yao** | Master Thesis | Co-supervisor: Felix Weber | 2022
 :::
 :::
 
 ::: {.experience-entry}
 ### Application of Explainable Artificial Intelligence (XAI) for Time Series Data in Industrial Robotics
 ::: {.experience-meta}
-**Tobias Kastenholz** | Master Thesis | Co-supervisor: Minh Trinh
+**Tobias Kastenholz** | Master Thesis | Co-supervisor: Minh Trinh | 2022
 :::
 :::
 
 ::: {.experience-entry}
 ### Classifying deformation behavior in crash analysis using spatial-temporal information from few samples
 ::: {.experience-meta}
-**Revan Kumar Dhanasekaran** | Master Thesis | 2022
-:::
-:::
-
-::: {.experience-entry}
-### An Automatic Approach for Global Interpretability of Image-Based Classification
-::: {.experience-meta}
-**Nikita Surya** | Master Thesis | 2022
-:::
-:::
-
-::: {.experience-entry}
-### Extracting Human-Understandable Highlevel Concepts from Deep Learning Based Classification Models for Industrial Use Cases Utilizing Concept Activation Vectors
-::: {.experience-meta}
-**Lukas Kreisköether** | Master Thesis
-:::
-:::
-
-::: {.experience-entry}
-### Investigation of Behavior in Deep Reinforcement Learning Agents via Activation Pattern Analysis
-::: {.experience-meta}
-**Melanie Lu** | Master Thesis
+**Revan Kumar Dhanasekaran** | Master Thesis | 2021
 :::
 :::
 
@@ -99,14 +113,7 @@ toc: true
 :::
 
 ::: {.experience-entry}
-### Analysis of Hierarchical Reinforcement Learning for Robotics
-::: {.experience-meta}
-**Malte Mosbach** | Master Thesis | 2020
-:::
-:::
-
-::: {.experience-entry}
-### TBD
+### Assessment of a machine learning model for defect detection in steel production
 ::: {.experience-meta}
 **Antonia Holzapfel** | Bachelor Thesis | 2021
 :::
@@ -115,6 +122,34 @@ toc: true
 ::: {.experience-entry}
 ### Model-Based Object Tracking using Robust Gaussian Filters on RGB-D Images of a Moving Camera
 ::: {.experience-meta}
-**Tobias Vogel** | Bachelor Thesis | Co-supervisor: Henrik Hose
+**Tobias Vogel** | Bachelor Thesis | Co-supervisor: Henrik Hose | 2021
+:::
+:::
+
+::: {.experience-entry}
+### An Automatic Approach for Global Interpretability of Image-Based Classification
+::: {.experience-meta}
+**Nikita Surya** | Master Thesis | 2020
+:::
+:::
+
+::: {.experience-entry}
+### Extracting Human-Understandable Highlevel Concepts from Deep Learning Based Classification Models for Industrial Use Cases Utilizing Concept Activation Vectors
+::: {.experience-meta}
+**Lukas Kreisköether** | Master Thesis | 2020
+:::
+:::
+
+::: {.experience-entry}
+### Analysis of Hierarchical Reinforcement Learning for Robotics
+::: {.experience-meta}
+**Malte Mosbach** | Master Thesis | 2020
+:::
+:::
+
+::: {.experience-entry}
+### Investigation of Behavior in Deep Reinforcement Learning Agents via Activation Pattern Analysis
+::: {.experience-meta}
+**Melanie Lu** | Master Thesis | 2019
 :::
 :::

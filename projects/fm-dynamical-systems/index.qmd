@@ -17,7 +17,7 @@ Foundation models pretrained on large amounts of data have shown impressive perf
 
 We explore transformer-based architectures pretrained entirely on **synthetic data** from randomly generated ordinary differential equations. Our findings show surprising zero-shot generalization to new target systems of various complexities for both **state prediction** and **control** tasks. We also investigate combining these foundation models with classical estimation techniques like the Unscented Kalman Filter (UKF) for state estimation.
 
-This work is funded by the [JUPITER AI Factory (JAIF)](/projects/jaif/), part of the EuroHPC JU initiative.
+This work is funded by the [JUPITER AI Factory (JAIF)](/projects/jaif/), part of the EuroHPC initiative.
 
 ## Related Publications {#related-publications}
 

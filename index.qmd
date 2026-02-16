@@ -26,7 +26,7 @@ about:
 
 Hi there! Since **September 2024**, I am a **postdoctoral researcher** at the [Institute for Data Science in Mechanical Engineering](https://www.dsme.rwth-aachen.de/cms/~ibtrg/DSME/lidx/1/) (DSME) at [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1). I completed my PhD under the supervision of [Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team/~jlolt/Prof-Sebastian-Trimpe/?allou=1), and was an associate doctoral researcher at the [Cluster of Excellence "Internet of Production"](https://www.iop.rwth-aachen.de/cms/~gpfz/produktionstechnik/?lidx=1) funded by the [DFG](https://gepris.dfg.de/gepris/projekt/390621612?language=en).
 
-Currently, I am focused on **Foundation Models for Dynamical Systems**, exploring transformer-based models pretrained on synthetic data for prediction and control tasks. This research is funded by the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory), part of the EuroHPC JU initiative. I also continue my work on **eXplainable Artificial Intelligence (XAI)**, developing methods for concept extraction and localization in deep neural networks.
+Currently, I am focused on **Foundation Models for Dynamical Systems**, exploring transformer-based models pretrained on synthetic data for prediction and control tasks. This research is funded by the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory), part of the EuroHPC initiative. I also continue my work on **eXplainable Artificial Intelligence (XAI)**, developing methods for concept extraction and localization in deep neural networks.
 
 Prior to that, I completed a bachelor's degree in **mechatronics engineering** at the [EIA University](https://www.eia.edu.co/#), a master's degree in **engineering** at the [Arts et Métiers ParisTech](https://artsetmetiers.fr/en), worked on agroindustrial applications of IoT and AI at [Asimetrix](https://asimetrix.co/), and worked as a researcher on applied AI at the [IMA Cybernetics Lab, RWTH Aachen University](https://cybernetics-lab.de/en/%C3%BCber-uns), in the context of the [QUISS](/projects/quiss/) project.
 
@@ -44,7 +44,7 @@ Prior to that, I completed a bachelor's degree in **mechatronics engineering** a
 ## Projects
 
 - [JUPITER AI Factory (JAIF)](/projects/jaif/)
-  EuroHPC JU AI Factory built around Europe's first exascale supercomputer.
+  EuroHPC AI Factory built around Europe's first exascale supercomputer.
 - [Internet of Production (IoP)](/projects/iop/)
   DFG-funded excellence cluster on using AI in production engineering.
 - [QUISS](/projects/quiss/)

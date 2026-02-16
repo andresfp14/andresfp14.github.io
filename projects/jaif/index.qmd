@@ -1,7 +1,7 @@
 ---
 title: "JUPITER AI Factory (JAIF)"
 image: featured.png
-description: "EuroHPC JU AI Factory built around Europe's first exascale supercomputer, enabling foundation model research for dynamical systems."
+description: "EuroHPC AI Factory built around Europe's first exascale supercomputer, enabling foundation model research for dynamical systems."
 date: "2025-03-01"
 categories:
   - Foundation Models
