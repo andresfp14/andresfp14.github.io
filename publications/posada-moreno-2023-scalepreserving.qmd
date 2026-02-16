@@ -1,0 +1,41 @@
+---
+title: "Scale-Preserving Automatic Concept Extraction (SPACE)"
+author:
+  - "Andrés Felipe Posada-Moreno"
+  - "Lukas Kreisköther"
+  - "Tassilo Glander"
+  - "Sebastian Trimpe"
+date: "2023-11-01"
+categories: [journal-article]
+description: "We introduce the Scale-Preserving Automatic Concept Extraction (SPACE) algorithm, a state-of-the-art concept extraction technique for CNNs focused on industrial applications."
+doi: "10.1007/s10994-023-06373-2"
+publication-venue: "Machine Learning"
+external-url: "https://doi.org/10.1007/s10994-023-06373-2"
+featured: true
+---
+
+## Abstract
+
+Convolutional Neural Networks (CNN) have become a common choice for industrial quality control, as well as other critical applications in the Industry 4.0. When these CNNs behave in ways unexpected to human users or developers, severe consequences can arise, such as economic losses or an increased risk to human life. Concept extraction techniques can be applied to increase the reliability and transparency of CNNs through generating global explanations for trained neural network models. The decisive features of image datasets in quality control often depend on the feature's scale; for example, the size of a hole or an edge. However, existing concept extraction methods do not correctly represent scale, which leads to problems interpreting these models as we show herein. To address this issue, we introduce the Scale-Preserving Automatic Concept Extraction (SPACE) algorithm, as a state-of-the-art alternative concept extraction technique for CNNs, focused on industrial applications. SPACE is specifically designed to overcome the aforementioned problems by avoiding scale changes throughout the concept extraction process. SPACE proposes an approach based on square slices of input images, which are selected and then tiled before being clustered into concepts. Our method provides explanations of the models' decision-making process in the form of human-understandable concepts. We evaluate SPACE on three image classification datasets in the context of industrial quality control. Through experimental results, we illustrate how SPACE outperforms other methods and provides actionable insights on the decision mechanisms of CNNs. Finally, code for the implementation of SPACE is provided.
+
+## Citation
+
+```bibtex
+@article{posada-moreno2023scalepreserving,
+ author = {Posada-Moreno, Andrés Felipe and Kreisköther, Lukas and Glander, Tassilo and Trimpe, Sebastian},
+ date = {2023-11-01},
+ doi = {10.1007/s10994-023-06373-2},
+ issn = {1573-0565},
+ journaltitle = {Machine Learning},
+ number = {11},
+ pages = {4495--4525},
+ title = {Scale-Preserving Automatic Concept Extraction (SPACE)},
+ url = {https://doi.org/10.1007/s10994-023-06373-2},
+ volume = {112}
+}
+```
+
+## Related Projects
+
+- [eXplainable Artificial Intelligence](/projects/xai/)
+- [Internet of Production](/projects/iop/)

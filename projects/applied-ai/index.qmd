@@ -1,0 +1,48 @@
+---
+title: "Applied AI"
+image: featured.png
+description: "Industrial applications of artificial intelligence across manufacturing, quality control, and transport domains."
+date: "2018-04-27"
+categories:
+  - Deep Learning
+  - Industry 4.0
+  - Applied AI
+project-type: theme
+---
+
+## Research Overview
+
+This research theme encompasses the application of AI and machine learning methods to real-world industrial problems across diverse domains, including manufacturing, quality control, and transport systems.
+
+Key application areas include:
+
+- **Manufacturing process optimization**: Using invertible neural networks for machine parameter prediction in heat-setting processes and fused deposition modeling.
+- **Quality monitoring**: Applying Generative Adversarial Networks for non-destructive quality assessment in large-scale casting.
+- **Neural network-based process modeling**: Leveraging deep learning for high-dimensional data scenarios in industrial production.
+- **Reinforcement learning**: Developing simulation-as-a-service platforms and transfer learning approaches for robotic manipulation tasks.
+
+## Related Publications {#related-publications}
+
+- **Objectifying Machine Setup and Parameter Selection Using Invertible Neural Networks** (2023)
+  Müller, K., Posada-Moreno, A., Pelzer, L., Gries, T. --- *FAIM 2022 (Springer LNME)*
+  [Details](/publications/muller-2023-objectifying.html) | [DOI](https://doi.org/10.1007/978-3-031-18326-3_29)
+
+- **Process Parameter Prediction for Fused Deposition Modeling Using Invertible Neural Networks** (2023)
+  Pelzer, L., Posada-Moreno, A.F., Müller, K., Greb, C., Hopmann, C. --- *Polymers*
+  [Details](/publications/pelzer-2023-process.html) | [DOI](https://doi.org/10.3390/polym15081884)
+
+- **Qualitätsüberwachung mit GANs als Alternative zur Angussprobe für den Großguss** (2023)
+  Weber, F., Yao, Y., Horbach, L., Posada Moreno, A.F., Bezold, A., Broeckmann, C. --- *Tagung Werkstoffprüfung*
+  [Details](/publications/weber-2023-qualitaetsueberwachung.html) | [DOI](https://doi.org/10.48447/WP-2023-266)
+
+- **Neural-Network-Based Classification of Commercially Available Fish Fillets** (2021)
+  Bragantini, G., Posada-Moreno, A.F., et al. --- *Proceedings of Machine Learning Research*
+  [Details](/publications/bragantini-2021-neuralnetworkbased.html)
+
+- **Simulation-as-a-Service for Reinforcement Learning Applications** (2020)
+  Scheiderer, C. et al. --- *Procedia Manufacturing*
+  [Details](/publications/scheiderer-2020-simulationasaservice.html) | [DOI](https://doi.org/10.1016/j.promfg.2020.10.126)
+
+- **Transfer of Hierarchical Reinforcement Learning Structures for Robotic Manipulation Tasks** (2020)
+  Scheiderer, C., Mosbach, M., Posada-Moreno, A.F., Meisen, T. --- *CSCI*
+  [Details](/publications/scheiderer-2020-transfer.html) | [DOI](https://doi.org/10.1109/CSCI51800.2020.00091)

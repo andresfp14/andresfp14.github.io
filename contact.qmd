@@ -1,0 +1,30 @@
+---
+title: "Contact"
+toc: false
+---
+
+Feel free to reach out to me through any of the following channels.
+
+::: {.grid}
+
+::: {.g-col-6}
+### Email
+
+- **Professional**: [andres.posada@dsme.rwth-aachen.de](mailto:andres.posada@dsme.rwth-aachen.de)
+- **Personal**: [andresfp14@gmail.com](mailto:andresfp14@gmail.com)
+
+### Location
+
+Aachen, NRW 52070, Germany
+:::
+
+::: {.g-col-6}
+### Online Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=BnCVQsUAAAAJ)
+- [GitHub](https://github.com/andresfp14)
+- [LinkedIn](https://www.linkedin.com/in/andresfelipeposadamoreno/)
+
+:::
+
+:::

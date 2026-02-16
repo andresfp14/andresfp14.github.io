@@ -1,0 +1,39 @@
+---
+title: "Condition Monitoring of Rail Infrastructure and Rolling Stock Using Acceleration Sensor Data of On-Rail Freight Wagons"
+author:
+  - "Thomas Otte"
+  - "Andres Felipe Posada-Moreno"
+  - "Fabian Hübenthal"
+  - "Marc Haßler"
+  - "Holger Bartels"
+  - "Anas Abdelrazeq"
+  - "Frank Hees"
+date: "2022-01-01"
+categories: [paper-conference]
+description: "Methods to monitor the condition of rail infrastructure and rolling stock by obtaining insights from raw sensor data."
+doi: "10.5220/0010824600003122"
+publication-venue: "ICPRAM"
+pdf-url: "http://publications.rwth-aachen.de/record/844319/files/844319.pdf"
+---
+
+## Abstract
+
+In various industry sectors all over the world, the ongoing digital transformation helps to unlock benefits for individual components, involved processes, stakeholders as well as the overarching system (e.g., the national economy). In this context, the rail transport sector can particularly benefit from the increased prevalence of sensor systems and the thereby increased availability of related data. As rail transport, by nature, is an integrated transport mode that contains both freight and passenger transport within the same transport network, benefits achieved for the service quality of freight transport also lead to improvements for passenger transport (e.g., punctuality or uptime of rolling stock). This technical paper presents a method to monitor the condition of the existing rail infrastructure as well as the rolling stock by obtaining insights from raw sensor data (e.g., locations and acceleration data). The data is collected with telemetry-units (i.e. multiple sensors integrated with a telematics device to enable data transmission) mounted on a fleet of on-rail freight wagons. In addition, the proposed method is applied to an exemplary set of extracted real-world data.
+
+## Citation
+
+```bibtex
+@inproceedings{otte2022condition,
+ author = {Otte, Thomas and Posada-Moreno, Andres Felipe and Hübenthal, Fabian and Haßler, Marc and Bartels, Holger and Abdelrazeq, Anas and Hees, Frank},
+ booktitle = {ICPRAM},
+ date = {2022},
+ doi = {10.5220/0010824600003122},
+ pages = {432--439},
+ title = {Condition Monitoring of Rail Infrastructure and Rolling Stock Using Acceleration Sensor Data of On-Rail Freight Wagons},
+ url = {http://publications.rwth-aachen.de/record/844319/files/844319.pdf}
+}
+```
+
+## Related Projects
+
+- [QUISS](/projects/quiss/)

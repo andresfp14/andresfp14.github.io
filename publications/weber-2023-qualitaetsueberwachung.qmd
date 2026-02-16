@@ -1,0 +1,35 @@
+---
+title: "Qualitätsüberwachung mit Generative Adversarial Networks als Alternative zur Angussprobe für den Großguss"
+author:
+  - "Felix Weber"
+  - "Yao Yao"
+  - "Lutz Horbach"
+  - "Andrés Felipe Posada Moreno"
+  - "Alexander Bezold"
+  - "Christoph Broeckmann"
+date: "2023-01-01"
+categories: [paper-conference]
+description: "Quality monitoring using Generative Adversarial Networks as an alternative to test coupons in large-scale casting."
+doi: "10.48447/WP-2023-266"
+publication-venue: "Tagung Werkstoffprüfung 2023"
+---
+
+## Abstract
+
+This paper investigates the use of Generative Adversarial Networks (GANs) for quality monitoring in large-scale casting as an alternative to the traditional test coupon approach. The proposed method leverages GANs to model the expected quality characteristics and detect deviations, enabling non-destructive quality assessment in the casting process.
+
+## Citation
+
+```bibtex
+@inproceedings{weber2023qualitaetsueberwachung,
+ author = {Weber, Felix and Yao, Yao and Horbach, Lutz and Posada Moreno, Andrés Felipe and Bezold, Alexander and Broeckmann, Christoph},
+ booktitle = {Tagung Werkstoffprüfung 2023},
+ date = {2023},
+ doi = {10.48447/WP-2023-266},
+ title = {Qualitätsüberwachung mit Generative Adversarial Networks als Alternative zur Angussprobe für den Großguss}
+}
+```
+
+## Related Projects
+
+- [Applied AI](/projects/applied-ai/)

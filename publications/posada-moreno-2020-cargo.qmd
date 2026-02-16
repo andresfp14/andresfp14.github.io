@@ -1,0 +1,38 @@
+---
+title: "Cargo Wagon Structural Health Estimation Using Computer Vision"
+author:
+  - "A. F. Posada-Moreno"
+  - "C. Klein"
+  - "M. Haßler"
+  - "D. Pehar"
+  - "A. F. Solvay"
+  - "C. P. Kohlschein"
+date: "2020-01-01"
+categories: [paper-conference]
+description: "A vision of a support system for wagon health assessment, in collaboration with DB Cargo."
+doi: "10.18154/RWTH-2020-02698"
+publication-venue: "8th Transport Research Arena, TRA2020"
+pdf-url: "https://publications.rwth-aachen.de/record/784705/files/784705.pdf"
+poster-url: "https://bmdv.bund.de/SharedDocs/DE/Anlage/DG/mFUND/Quiss-e-poster.pdf?__blob=publicationFile"
+---
+
+## Abstract
+
+European Railway companies have to guarantee the safety of their operations as well as compliance with the European standards. This includes the diagnosis and maintenance of each wagon during their operations. This process is reactive and timely based, which impedes an optimal working schedule of the wagons and hinders the lifecycle management of their components. This publication describes the vision of a support system for wagon health assessment, a detailed description of the underlying methodology as well as results of the image acquisition and object detection steps. Said system aims to assist the overall maintenance process by delivering pertinent information regarding the state of the wagons as well as diagnostic results of automated components analysis. The proposed system consists of four stages, image acquisition, wagon identification, health estimation, and a decision support system.
+
+## Citation
+
+```bibtex
+@inproceedings{posada-moreno2020cargo,
+ author = {Posada-Moreno, A. F. and Klein, C. and Haßler, M. and Pehar, D. and Solvay, A. F. and Kohlschein, C. P.},
+ booktitle = {8th Transport Research Arena, TRA2020},
+ date = {2020},
+ doi = {10.18154/RWTH-2020-02698},
+ title = {Cargo Wagon Structural Health Estimation Using Computer Vision},
+ url = {https://publications.rwth-aachen.de/record/784705/files/784705.pdf}
+}
+```
+
+## Related Projects
+
+- [QUISS](/projects/quiss/)

@@ -1,0 +1,31 @@
+---
+title: "Pointwise-in-Time Diagnostics for Reinforcement Learning during Training and Runtime"
+author:
+  - "Noel Brindise"
+  - "Andrés Felipe Posada-Moreno"
+  - "Cedric Langbort"
+  - "Sebastian Trimpe"
+date: "2024-06-11"
+categories: [paper-conference]
+description: "A framework for explaining RL agents during training and runtime based on the definition of an agent's desired behavior through linear temporal logic (LTL)."
+publication-venue: "Proceedings of the 6th Annual Learning for Dynamics & Control Conference (PMLR)"
+external-url: "https://proceedings.mlr.press/v242/brindise24a.html"
+---
+
+## Abstract
+
+Explainable AI Planning (XAIP), a subfield of xAI, offers a variety of methods to interpret the behavior of autonomous systems. A recent "pointwise-in-time" explanation method, called Rule Status Assessment (RSA), characterizes an agent's behavior at individual time steps in a trajectory using linear temporal logic (LTL) rules. In this work, RSA is applied for the first time in a reinforcement learning (RL) context. We first demonstrate RSA diagnostics as a substantial supplement to the basic RL reward curve, tracking whether and when specified subtasks are accomplished. We then introduce a novel "Interactive RSA" which provides the user with detailed diagnostic information automatically at any desired point in a trajectory. We apply RSA to an advanced agent at runtime and show that RSA and its novel interactive variant constitute a promising step towards explainable RL.
+
+## Citation
+
+```bibtex
+@inproceedings{brindise2024pointwiseintime,
+ author = {Brindise, Noel and Posada-Moreno, Andrés Felipe and Langbort, Cedric and Trimpe, Sebastian},
+ booktitle = {Proceedings of the 6th Annual Learning for Dynamics \& Control Conference},
+ date = {2024-06-11},
+ pages = {694--706},
+ publisher = {PMLR},
+ title = {Pointwise-in-Time Diagnostics for Reinforcement Learning during Training and Runtime},
+ url = {https://proceedings.mlr.press/v242/brindise24a.html}
+}
+```

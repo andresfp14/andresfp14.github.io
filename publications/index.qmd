@@ -1,0 +1,17 @@
+---
+title: "Publications"
+listing:
+  contents: "*.qmd"
+  type: table
+  sort:
+    - "date desc"
+  fields: [date, title, author, publication-venue, categories]
+  field-display-names:
+    categories: "Type"
+    publication-venue: "Venue"
+  filter-ui: [date, categories]
+  sort-ui: true
+  page-size: 20
+---
+
+Browse my complete list of academic publications below. You can filter by publication type or sort by date.

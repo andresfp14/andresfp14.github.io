@@ -1,0 +1,36 @@
+---
+title: "Research and Projects"
+listing:
+  - id: themes
+    contents:
+      - "*/index.qmd"
+    type: grid
+    sort:
+      - "date desc"
+    fields: [image, title, description, date]
+    grid-columns: 3
+    include:
+      project-type: "theme"
+  - id: funded
+    contents:
+      - "*/index.qmd"
+    type: grid
+    sort:
+      - "date desc"
+    fields: [image, title, description, date]
+    grid-columns: 3
+    include:
+      project-type: "funded"
+---
+
+My research lies at the intersection of **Foundation Models for Dynamical Systems** and **eXplainable Artificial Intelligence (XAI)**. I am currently focused on transformer-based models pretrained on synthetic data for prediction and control of dynamical systems, while continuing to develop concept extraction methods that make deep neural networks more transparent and trustworthy. Below you can find my main research themes and funded projects.
+
+## Research Themes
+
+:::{#themes}
+:::
+
+## Funded Projects
+
+:::{#funded}
+:::

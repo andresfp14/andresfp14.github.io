@@ -1,48 +1,69 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Andres Felipe Posada Moreno - Personal Academic Website
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+Personal academic website built with [Quarto](https://quarto.org/) and deployed on [GitHub Pages](https://andresfp14.github.io/).
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## Prerequisites
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+- [Quarto CLI](https://quarto.org/docs/get-started/) (>= 1.6)
+- [uv](https://docs.astral.sh/uv/) (Python package manager)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## Setup
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+Clone the repository and install dependencies:
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+```bash
+git clone https://github.com/andresfp14/andresfp14.github.io.git
+cd andresfp14.github.io
+uv venv
+uv sync --no-install-project
+```
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Preview Locally
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+```bash
+uv run quarto preview
+```
 
-## We ask you, humbly, to support this open source movement
+This starts a local development server (typically at `http://localhost:4848`) with live reload.
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+## Build
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+```bash
+uv run quarto render
+```
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+The rendered site is output to the `_site/` directory.
 
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
+## Deploy
 
-## Demo image credits
+Deployment happens automatically via GitHub Actions on push to `main`. The workflow:
 
-- [Unsplash](https://unsplash.com)
+1. Installs uv and Python
+2. Installs project dependencies
+3. Installs Quarto
+4. Renders the site
+5. Deploys to GitHub Pages
 
-## Latest news
+> **Note**: Ensure GitHub Pages is configured to use **GitHub Actions** as the source in your repository settings (Settings > Pages > Source > GitHub Actions).
 
-<!--START_SECTION:news-->
-* [The 7 best landing page builders in 2024](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;7-best-landing-page-builders&#x2F;)
-* [Start a Blog and Make Money in 2024: Here&#39;s What You Need to Know](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;start-a-blog-and-make-money&#x2F;)
-* [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+## Project Structure
+
+```text
+.
+├── _quarto.yml          # Quarto configuration
+├── index.qmd            # Homepage (About/Bio)
+├── experience.qmd       # Experience timeline
+├── publications/         # Individual publication pages + listing
+├── projects/             # Project pages with images
+├── blog/                 # Blog listing (empty, ready for posts)
+├── contact.qmd           # Contact information
+├── assets/               # Images, icons, resume PDF
+├── styles/               # Custom SCSS
+├── .github/workflows/    # GitHub Actions deployment
+├── pyproject.toml        # Python dependencies (for uv)
+└── CONTENT_INVENTORY.md  # Full content reference from Hugo migration
+```
+
+## License
+
+Content: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

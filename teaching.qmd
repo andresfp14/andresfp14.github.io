@@ -1,0 +1,120 @@
+---
+title: "Teaching"
+toc: true
+---
+
+## Lectures
+
+::: {.experience-entry}
+### Learning-based Control Seminar
+::: {.experience-meta}
+**DSME - RWTH Aachen University** | WS2025, WS2023, WS2022, WS2021
+:::
+:::
+
+::: {.experience-entry}
+### Artificial Intelligence and Data Analytics for Engineers
+::: {.experience-meta}
+**IMA (Cybernetics Lab) - RWTH Aachen University** | SS2020, SS2019
+:::
+:::
+
+::: {.experience-entry}
+### RWTH International Academy Seminars
+::: {.experience-meta}
+**RWTH Aachen University** | 2018 -- 2019
+:::
+
+- "Production Technology Meets Industry 4.0" — 1-week summer school (August 2019)
+- "Smart Factories" — 1-week winter school (February 2019)
+- "Smart Engineering for Smart Factories" — 1-week winter school (June 2018)
+- "Industry 4.0" — 1-week winter school (April 2018)
+:::
+
+::: {.experience-entry}
+### Mechatronic Design
+::: {.experience-meta}
+**EIA University** | Colombia | 2014
+:::
+:::
+
+## Talks
+
+::: {.experience-entry}
+### Invertible Neural Networks in Production
+::: {.experience-meta}
+**Keio International Mini-Symposium** | November 2020
+:::
+:::
+
+## Supervised Theses
+
+::: {.experience-entry}
+### AI Enhanced Fatigue Strength Prediction for Ductile Cast Iron
+::: {.experience-meta}
+**Yao Yao** | Master Thesis | Co-supervisor: Felix Weber
+:::
+:::
+
+::: {.experience-entry}
+### Application of Explainable Artificial Intelligence (XAI) for Time Series Data in Industrial Robotics
+::: {.experience-meta}
+**Tobias Kastenholz** | Master Thesis | Co-supervisor: Minh Trinh
+:::
+:::
+
+::: {.experience-entry}
+### Classifying deformation behavior in crash analysis using spatial-temporal information from few samples
+::: {.experience-meta}
+**Revan Kumar Dhanasekaran** | Master Thesis | 2022
+:::
+:::
+
+::: {.experience-entry}
+### An Automatic Approach for Global Interpretability of Image-Based Classification
+::: {.experience-meta}
+**Nikita Surya** | Master Thesis | 2022
+:::
+:::
+
+::: {.experience-entry}
+### Extracting Human-Understandable Highlevel Concepts from Deep Learning Based Classification Models for Industrial Use Cases Utilizing Concept Activation Vectors
+::: {.experience-meta}
+**Lukas Kreisköether** | Master Thesis
+:::
+:::
+
+::: {.experience-entry}
+### Investigation of Behavior in Deep Reinforcement Learning Agents via Activation Pattern Analysis
+::: {.experience-meta}
+**Melanie Lu** | Master Thesis
+:::
+:::
+
+::: {.experience-entry}
+### Establishing Interpretability of Neural Networks for Time Series Sensory Data Analysis
+::: {.experience-meta}
+**Nils Hütten** | Master Thesis | 2021
+:::
+:::
+
+::: {.experience-entry}
+### Analysis of Hierarchical Reinforcement Learning for Robotics
+::: {.experience-meta}
+**Malte Mosbach** | Master Thesis | 2020
+:::
+:::
+
+::: {.experience-entry}
+### TBD
+::: {.experience-meta}
+**Antonia Holzapfel** | Bachelor Thesis | 2021
+:::
+:::
+
+::: {.experience-entry}
+### Model-Based Object Tracking using Robust Gaussian Filters on RGB-D Images of a Moving Camera
+::: {.experience-meta}
+**Tobias Vogel** | Bachelor Thesis | Co-supervisor: Henrik Hose
+:::
+:::

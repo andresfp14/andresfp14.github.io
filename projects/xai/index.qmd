@@ -1,0 +1,51 @@
+---
+title: "eXplainable Artificial Intelligence (XAI)"
+description: "Developing methods for concept extraction, localization, and learning to explain what deep neural networks learn through training."
+image: featured.png
+date: "2019-04-27"
+categories:
+  - Deep Learning
+  - eXplainable Artificial Intelligence
+  - Concept Extraction
+project-type: theme
+---
+
+## Research Overview
+
+This research focuses on making deep neural networks (DNNs) more transparent and trustworthy through **explainable artificial intelligence (XAI)**, with a particular emphasis on **concept extraction**. In critical applications such as industrial quality control, understanding *what* a model has learned and *why* it makes certain predictions is essential for safety, reliability, and human trust.
+
+We develop methods that generate **global explanations** for trained neural network models by automatically extracting and localizing human-understandable concepts. Key contributions include:
+
+- **ECLAD** (Extracting Concepts with Local Aggregated Descriptors): A method for automatic concept extraction and localization based on pixel-wise aggregations of CNN activation maps, with a rigorous validation framework using synthetic datasets.
+
+- **SPACE** (Scale-Preserving Automatic Concept Extraction): An algorithm designed for industrial applications that preserves scale information throughout the concept extraction process, critical for quality control tasks where feature size matters.
+
+- **ECLAD-ts**: Extension of concept extraction to the time series domain, enabling the identification and localization of meaningful temporal concepts.
+
+- **Concept Regularization**: Closing the loop between concept extraction and model training, using extracted concepts as regularization signals to encourage better-aligned representations.
+
+## Related Publications {#related-publications}
+
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors** (2023)
+  Posada-Moreno, A.F., Surya, N., Trimpe, S. --- *Pattern Recognition*
+  [Details](/publications/posada-moreno-2023-eclad.html) | [DOI](https://doi.org/10.1016/j.patcog.2023.110146)
+
+- **Scale-Preserving Automatic Concept Extraction (SPACE)** (2023)
+  Posada-Moreno, A.F., Kreisköther, L., Glander, T., Trimpe, S. --- *Machine Learning*
+  [Details](/publications/posada-moreno-2023-scalepreserving.html) | [DOI](https://doi.org/10.1007/s10994-023-06373-2)
+
+- **Scalable Concept Extraction in Industry 4.0** (2023)
+  Posada-Moreno, A.F., Müller, K., Brillowski, F., Solowjow, F., Gries, T., Trimpe, S. --- *xAI Conference (Springer CCIS)*
+  [Details](/publications/posada-moreno-2023-scalable.html) | [DOI](https://doi.org/10.1007/978-3-031-44070-0_26)
+
+- **Concept Extraction for Time Series with ECLAD-ts** (2025)
+  Holzapfel, A., Posada-Moreno, A.F., Trimpe, S. --- *xAI 2025 (Springer CCIS)*
+  [Details](/publications/holzapfel-2025-ecladts.html) | [DOI](https://doi.org/10.1007/978-3-032-08317-3_5)
+
+- **Concept Extraction for Time Series With ECLAD** (2024)
+  Holzapfel San Martin, A.P., Posada Moreno, A.F., Trimpe, J.S. --- *sAIOnARA 2024*
+  [Details](/publications/holzapfel-2024-ecladts-short.html) | [DOI](https://doi.org/10.11576/dataninja-1178)
+
+- **Closing the Loop with Concept Regularization** (2024)
+  Posada Moreno, A.F., Trimpe, J.S. --- *sAIOnARA 2024*
+  [Details](/publications/posada-moreno-2024-concept-regularization.html) | [DOI](https://doi.org/10.11576/dataninja-1173)

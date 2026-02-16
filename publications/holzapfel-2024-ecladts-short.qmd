@@ -1,0 +1,33 @@
+---
+title: "Concept Extraction for Time Series With ECLAD"
+author:
+  - "Antonia Paz Holzapfel San Martin"
+  - "Andrés Felipe Posada Moreno"
+  - "Johann Sebastian Trimpe"
+date: "2024-06-25"
+categories: [paper-conference]
+description: "Short paper introducing ECLAD for time series concept extraction, presented at sAIOnARA 2024."
+doi: "10.11576/dataninja-1178"
+publication-venue: "sAIOnARA 2024, Bielefeld"
+---
+
+## Abstract
+
+We present an approach for concept extraction in time series classification models, extending the ECLAD framework originally designed for image data. Our method enables the identification and localization of temporal concepts in time series, providing global explanations for deep learning models operating on sequential data.
+
+## Citation
+
+```bibtex
+@inproceedings{holzapfel2024ecladts,
+ author = {Holzapfel San Martin, Antonia Paz and Posada Moreno, Andrés Felipe and Trimpe, Johann Sebastian},
+ booktitle = {Proceedings of sAIOnARA 2024},
+ date = {2024},
+ doi = {10.11576/dataninja-1178},
+ pages = {78--80},
+ title = {Concept Extraction for Time Series With ECLAD}
+}
+```
+
+## Related Projects
+
+- [eXplainable Artificial Intelligence](/projects/xai/)

@@ -1,0 +1,35 @@
+---
+title: "On Foundation Models for Dynamical Systems from Purely Synthetic Data"
+author:
+  - "Martin Ziegler"
+  - "Andres Felipe Posada-Moreno"
+  - "Friedrich Solowjow"
+  - "Sebastian Trimpe"
+date: "2024-11-30"
+categories: [preprint]
+description: "A transformer-based foundation model pretrained entirely on synthetic data from randomly generated dynamical systems for prediction and control tasks."
+external-url: "https://arxiv.org/abs/2412.00395"
+featured: true
+---
+
+## Abstract
+
+Foundation models pretrained on large amounts of data have shown impressive performance across a wide range of tasks in natural language processing and computer vision. Motivated by this, we investigate foundation models for dynamical systems, pretrained on synthetic data generated from a vast number of randomly generated systems. We explore the zero-shot generalization of these models to unseen target dynamical systems for the tasks of state prediction and control. We find that these foundation models are able to generalize surprisingly well to new target systems of various complexities, provided these systems can be described by ordinary differential equations. We provide initial evidence that the quality of the pretrained model transfers to the downstream control task and discuss a range of possible applications.
+
+## Citation
+
+```bibtex
+@article{ziegler2024foundation,
+ author = {Ziegler, Martin and Posada-Moreno, Andres Felipe and Solowjow, Friedrich and Trimpe, Sebastian},
+ date = {2024-11-30},
+ eprint = {2412.00395},
+ eprinttype = {arxiv},
+ title = {On Foundation Models for Dynamical Systems from Purely Synthetic Data},
+ url = {https://arxiv.org/abs/2412.00395}
+}
+```
+
+## Related Projects
+
+- [Foundation Models for Dynamical Systems](/projects/fm-dynamical-systems/)
+- [JUPITER AI Factory](/projects/jaif/)

@@ -1,0 +1,37 @@
+---
+title: "Image Classification Dataset on Tailored Textiles Quality Control"
+author:
+  - "Andrés Felipe Posada-Moreno"
+  - "Kai Müller"
+  - "Florian Brillowski"
+  - "Friedrich Solowjow"
+  - "Thomas Gries"
+  - "Sebastian Trimpe"
+date: "2023-05-25"
+categories: [dataset]
+description: "A publicly available image classification dataset for quality control of tailored textiles, hosted on Zenodo."
+doi: "10.5281/zenodo.7970596"
+external-url: "https://zenodo.org/records/7970596"
+---
+
+## Description
+
+This dataset contains images for classification tasks in the context of quality control of tailored textiles. It was created as part of our research on scalable concept extraction in Industry 4.0 and is publicly available on Zenodo to support reproducibility and further research.
+
+## Citation
+
+```bibtex
+@misc{posada-moreno2023datasettextiles,
+ author = {Posada-Moreno, Andrés Felipe and Müller, Kai and Brillowski, Florian and Solowjow, Friedrich and Gries, Thomas and Trimpe, Sebastian},
+ date = {2023},
+ doi = {10.5281/zenodo.7970596},
+ publisher = {Zenodo},
+ title = {Image Classification Dataset on Tailored Textiles Quality Control},
+ url = {https://zenodo.org/records/7970596}
+}
+```
+
+## Related Projects
+
+- [Internet of Production](/projects/iop/)
+- [eXplainable Artificial Intelligence](/projects/xai/)

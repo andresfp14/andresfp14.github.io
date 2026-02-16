@@ -1,0 +1,39 @@
+---
+title: "Towards Cargo Wagons Brake Health Scoring through Image Processing"
+author:
+  - "Andres Felipe Posada-Moreno"
+  - "Thomas Otte"
+  - "Damir Pehar"
+  - "Marc Haßler"
+  - "Holger Bartels"
+  - "Anas Abdelrazeq"
+  - "Frank Hees"
+date: "2022-01-01"
+categories: [paper-conference]
+description: "A system for the automated scoring of cargo wagon brakes through image processing and deep learning algorithms."
+publication-venue: "ICPRAM"
+doi: "10.5220/0010824300003122"
+pdf-url: "https://www.scitepress.org/Papers/2022/108243/108243.pdf"
+---
+
+## Abstract
+
+The increase of integrated logistics is generating the progressive integration of rail transport systems on a global scale. This raises the challenge of the safe and compliant operation of an increasing number of assets. Within this context, inspection of in-service cargo wagons becomes increasingly important. Among the wagon components, the brake pads are essential and must be constantly inspected and timely changed before any failure. This publication presents a novel system for the automated scoring of cargo wagon brakes through image processing and deep learning algorithms. The main goal of this system is to provide insightful information which can improve the observability of assets, as well as enable augmented decision-making in maintenance inspection processes. Through this work, a four-step novel approach is described. First, an image acquisition system was developed. Then, an object detection model is used to extract the important cargo wagon components. Next, images containing the extracted brakes are analyzed to extract the most relevant keypoints of the brakes. Finally, the ratio between the distances of multiple keypoints is used to score each brake and provide insightful information regarding their health. After implementation, the proposed approach is tested and the resulting scores are explored.
+
+## Citation
+
+```bibtex
+@inproceedings{posada-moreno2022cargo,
+ author = {Posada-Moreno, Andres Felipe and Otte, Thomas and Pehar, Damir and Haßler, Marc and Bartels, Holger and Abdelrazeq, Anas and Hees, Frank},
+ booktitle = {ICPRAM},
+ date = {2022},
+ doi = {10.5220/0010824300003122},
+ pages = {423--431},
+ title = {Towards Cargo Wagons Brake Health Scoring through Image Processing},
+ url = {https://www.scitepress.org/Papers/2022/108243/108243.pdf}
+}
+```
+
+## Related Projects
+
+- [QUISS](/projects/quiss/)

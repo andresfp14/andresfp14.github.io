@@ -1,0 +1,37 @@
+---
+title: "Concept Extraction for Time Series with ECLAD-ts"
+author:
+  - "Antonia Holzapfel"
+  - "Andrés Felipe Posada-Moreno"
+  - "Sebastian Trimpe"
+date: "2025-04-07"
+categories: [paper-conference]
+description: "Extending ECLAD to the time series domain for concept extraction in temporal deep learning models."
+doi: "10.1007/978-3-032-08317-3_5"
+publication-venue: "xAI 2025, Springer CCIS vol. 2576"
+---
+
+## Abstract
+
+Deep learning models for time series classification are becoming increasingly prevalent, yet their inner workings remain difficult to understand. In the image domain, concept extraction methods have proven effective in providing global, human-understandable explanations of a model's decision-making process. In this work, we extend the ECLAD (Extracting Concepts with Local Aggregated Descriptors) method to the time series domain, introducing ECLAD-ts. Our approach adapts the concept extraction pipeline to handle temporal data, enabling the identification and localization of meaningful concepts within time series. We evaluate ECLAD-ts on both synthetic and real-world time series datasets, demonstrating its ability to extract interpretable concepts that align with known patterns in the data.
+
+## Citation
+
+```bibtex
+@inproceedings{holzapfel2025ecladts,
+ author = {Holzapfel, Antonia and Posada-Moreno, Andrés Felipe and Trimpe, Sebastian},
+ booktitle = {Explainable Artificial Intelligence},
+ date = {2025},
+ doi = {10.1007/978-3-032-08317-3_5},
+ pages = {90--112},
+ publisher = {Springer},
+ series = {Communications in Computer and Information Science},
+ title = {Concept Extraction for Time Series with ECLAD-ts},
+ volume = {2576}
+}
+```
+
+## Related Projects
+
+- [eXplainable Artificial Intelligence](/projects/xai/)
+- [Internet of Production](/projects/iop/)

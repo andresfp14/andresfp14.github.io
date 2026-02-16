@@ -1,0 +1,36 @@
+---
+title: "Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF"
+author:
+  - "Tobin Holtmann"
+  - "David Stenger"
+  - "Andres Posada-Moreno"
+  - "Friedrich Solowjow"
+  - "Sebastian Trimpe"
+date: "2025-09-04"
+categories: [paper-conference]
+description: "Combining a foundation model pretrained on synthetic dynamical systems with the Unscented Kalman Filter for zero-shot state estimation."
+doi: "10.1109/CDC57313.2025.11313025"
+publication-venue: "IEEE Conference on Decision and Control (CDC 2025)"
+---
+
+## Abstract
+
+Foundation models, pretrained on large-scale datasets, have shown impressive zero-shot capabilities across various domains. In this work, we investigate the use of foundation models for dynamical systems, pretrained on data from purely synthetic dynamical systems, for the task of state estimation. Building on a transformer-based foundation model, we combine it with the Unscented Kalman Filter (UKF) to tackle zero-shot state estimation in systems not seen during pretraining. We evaluate the approach on multiple dynamical systems, demonstrating the potential of combining pretrained foundation models with classical estimation techniques for control applications.
+
+## Citation
+
+```bibtex
+@inproceedings{holtmann2025sailing,
+ author = {Holtmann, Tobin and Stenger, David and Posada-Moreno, Andres and Solowjow, Friedrich and Trimpe, Sebastian},
+ booktitle = {2025 IEEE 64th Conference on Decision and Control (CDC)},
+ date = {2025},
+ doi = {10.1109/CDC57313.2025.11313025},
+ pages = {96--102},
+ title = {Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF}
+}
+```
+
+## Related Projects
+
+- [Foundation Models for Dynamical Systems](/projects/fm-dynamical-systems/)
+- [JUPITER AI Factory](/projects/jaif/)

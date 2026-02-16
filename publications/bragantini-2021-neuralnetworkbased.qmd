@@ -1,0 +1,32 @@
+---
+title: "Neural-Network-based State Estimation: The Effect of Pseudo-Measurements"
+author:
+  - "Andrea Bragantini"
+  - "Davide Baroli"
+  - "Andres Felipe Posada-Moreno"
+  - "Andrea Benigni"
+date: "2021-06-01"
+categories: [paper-conference]
+description: "Tackling the problem of state estimation in power systems using deep learning models."
+doi: "10.1109/ISIE45552.2021.9576442"
+publication-venue: "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)"
+external-url: "https://ieeexplore.ieee.org/document/9576442"
+---
+
+## Abstract
+
+This work wants to contribute to the current research effort of exploiting deep learning models to tackle the problem of state estimation in power systems. In this contribution, we propose first a methodology for generating data-sets in case of few measurements available. The main body of the work investigates the design of artificial neural network with an extensive study on the input-layer, which plays a crucial role in robustness of the estimator. The aim is to compare performances between models which use additional pseudo-measurements in input and those which do not. Simulation results carried out on the IEEE 95-bus system and low voltage to-bus test network support the conclusions of the proposed framework.
+
+## Citation
+
+```bibtex
+@inproceedings{bragantini2021neuralnetworkbased,
+ author = {Bragantini, Andrea and Baroli, Davide and Posada-Moreno, Andres Felipe and Benigni, Andrea},
+ booktitle = {2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)},
+ date = {2021-06},
+ doi = {10.1109/ISIE45552.2021.9576442},
+ pages = {1--6},
+ title = {Neural-Network-based State Estimation: The Effect of Pseudo-Measurements},
+ url = {https://ieeexplore.ieee.org/document/9576442}
+}
+```

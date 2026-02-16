@@ -1,0 +1,69 @@
+---
+title: "Internet of Production"
+description: "Enabling a new level of cross-domain collaboration by providing context-aware data and AI methods from production, development and usage in real-time."
+image: featured.png
+date: "2019-04-27"
+categories:
+  - Deep Learning
+  - Data Science
+  - Industry 4.0
+project-type: funded
+---
+
+## Project Overview
+
+The Internet of Production (IoP) Project, anchored at the RWTH Aachen Campus, represents a cutting-edge initiative that leverages granular data from industrial scenarios to fuel artificial intelligence-based applications across varying complexity levels. At the heart of the IoP lies the ambition to create seamless data-to-knowledge pipelines, integrating advanced concepts like Digital Shadows, artificial intelligence, and ontologies. This integration is key to our strategy, aimed at not only enhancing productivity but also ensuring more effective human integration within industrial contexts.
+
+This project harnesses the rich, detailed data gathered from diverse industrial settings to power AI-driven solutions. These solutions are designed to navigate through layers of complexity, transforming raw data into actionable insights. The concept of Digital Shadows plays a pivotal role in this transformation, offering multi-perspective, aggregated datasets that mirror the physical world in a virtual space. By combining these with AI and ontological frameworks, the IoP creates a synergistic environment where data is not just collected, but also intelligently interpreted and utilized. This approach results in significant productivity gains and a more harmonious integration of human expertise and decision-making within the industrial workflow. The RWTH Aachen Campus, with its comprehensive infrastructure and interdisciplinary expertise, is the ideal setting for this innovative project, continuing its tradition of excellence in production technology and setting new standards in the integration of AI into industrial processes.
+
+This project was funded by the [Deutsche Forschungsgemeinschaft](https://gepris.dfg.de/gepris/projekt/390621612?language=en) since 2019. It was a collaboration between several research institutes from the [RWTH Aachen University](https://www.iop.rwth-aachen.de/cms/~gpfz/produktionstechnik/?lidx=1).
+
+## Related Publications {#related-publications}
+
+- **Concept Extraction for Time Series with ECLAD-ts** (2025)
+  Holzapfel, A., Posada-Moreno, A.F., Trimpe, S. --- *xAI 2025 (Springer CCIS)*
+  [Details](/publications/holzapfel-2025-ecladts.html) | [DOI](https://doi.org/10.1007/978-3-032-08317-3_5)
+
+- **Closing the Loop with Concept Regularization** (2024)
+  Posada Moreno, A.F., Trimpe, J.S. --- *sAIOnARA 2024*
+  [Details](/publications/posada-moreno-2024-concept-regularization.html) | [DOI](https://doi.org/10.11576/dataninja-1173)
+
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors** (2023)
+  Posada-Moreno, A.F., Surya, N., Trimpe, S. --- *Pattern Recognition*
+  [Details](/publications/posada-moreno-2023-eclad.html) | [DOI](https://doi.org/10.1016/j.patcog.2023.110146)
+
+- **Scale-Preserving Automatic Concept Extraction (SPACE)** (2023)
+  Posada-Moreno, A.F., Kreisköther, L., Glander, T., Trimpe, S. --- *Machine Learning*
+  [Details](/publications/posada-moreno-2023-scalepreserving.html) | [DOI](https://doi.org/10.1007/s10994-023-06373-2)
+
+- **Scalable Concept Extraction in Industry 4.0** (2023)
+  Posada-Moreno, A.F., Müller, K., Brillowski, F., Solowjow, F., Gries, T., Trimpe, S. --- *xAI Conference (Springer CCIS)*
+  [Details](/publications/posada-moreno-2023-scalable.html) | [DOI](https://doi.org/10.1007/978-3-031-44070-0_26)
+
+- **Image Classification Dataset on Carbon Fiber Reinforcement Quality Control** (2023)
+  Posada-Moreno, A.F., Müller, K., Brillowski, F., Solowjow, F., Gries, T., Trimpe, S. --- *Zenodo*
+  [Details](/publications/posada-moreno-2023-dataset-carbon.html) | [DOI](https://doi.org/10.5281/zenodo.7970490)
+
+- **Image Classification Dataset on Tailored Textiles Quality Control** (2023)
+  Posada-Moreno, A.F., Müller, K., Brillowski, F., Solowjow, F., Gries, T., Trimpe, S. --- *Zenodo*
+  [Details](/publications/posada-moreno-2023-dataset-textiles.html) | [DOI](https://doi.org/10.5281/zenodo.7970596)
+
+- **Actionable Artificial Intelligence for the Future of Production** (2023)
+  Behery, M. et al. --- *Internet of Production (Springer)*
+  [Details](/publications/behery-2023-actionable.html) | [DOI](https://doi.org/10.1007/978-3-030-98062-7_4-1)
+
+- **Objectifying Machine Setup and Parameter Selection Using Invertible Neural Networks** (2023)
+  Müller, K., Posada-Moreno, A., Pelzer, L., Gries, T. --- *FAIM 2022 (Springer LNME)*
+  [Details](/publications/muller-2023-objectifying.html) | [DOI](https://doi.org/10.1007/978-3-031-18326-3_29)
+
+- **Process Parameter Prediction for Fused Deposition Modeling Using Invertible Neural Networks** (2023)
+  Pelzer, L., Posada-Moreno, A.F., Müller, K., Greb, C., Hopmann, C. --- *Polymers*
+  [Details](/publications/pelzer-2023-process.html) | [DOI](https://doi.org/10.3390/polym15081884)
+
+- **Simulation-as-a-Service for Reinforcement Learning Applications** (2020)
+  Scheiderer, C. et al. --- *Procedia Manufacturing*
+  [Details](/publications/scheiderer-2020-simulationasaservice.html) | [DOI](https://doi.org/10.1016/j.promfg.2020.10.126)
+
+- **Transfer of Hierarchical Reinforcement Learning Structures for Robotic Manipulation Tasks** (2020)
+  Scheiderer, C., Mosbach, M., Posada-Moreno, A.F., Meisen, T. --- *CSCI*
+  [Details](/publications/scheiderer-2020-transfer.html) | [DOI](https://doi.org/10.1109/CSCI51800.2020.00091)

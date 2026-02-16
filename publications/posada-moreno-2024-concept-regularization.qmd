@@ -1,0 +1,33 @@
+---
+title: "Closing the Loop with Concept Regularization"
+author:
+  - "Andrés Felipe Posada Moreno"
+  - "Johann Sebastian Trimpe"
+date: "2024-06-25"
+categories: [paper-conference]
+description: "Short paper on concept regularization for closing the loop between concept extraction and model training, presented at sAIOnARA 2024."
+doi: "10.11576/dataninja-1173"
+publication-venue: "sAIOnARA 2024, Bielefeld"
+---
+
+## Abstract
+
+Concept extraction methods can provide global, human-understandable explanations for deep neural networks. However, the extracted concepts are typically used only for post-hoc analysis. In this work, we propose closing the loop by using the extracted concepts as regularization signals during model training, encouraging the network to learn representations that are better aligned with human-understandable concepts.
+
+## Citation
+
+```bibtex
+@inproceedings{posada-moreno2024conceptregularization,
+ author = {Posada Moreno, Andrés Felipe and Trimpe, Johann Sebastian},
+ booktitle = {Proceedings of sAIOnARA 2024},
+ date = {2024},
+ doi = {10.11576/dataninja-1173},
+ pages = {62--64},
+ title = {Closing the Loop with Concept Regularization}
+}
+```
+
+## Related Projects
+
+- [eXplainable Artificial Intelligence](/projects/xai/)
+- [Internet of Production](/projects/iop/)

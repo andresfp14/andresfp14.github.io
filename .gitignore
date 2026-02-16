@@ -1,11 +1,23 @@
-# IDEs
-.idea/
+# Quarto
+_site/
+.quarto/
+**/*.quarto_ipynb
 
-# Hugo
-resources/
-public/
-jsconfig.json
-node_modules/
-go.sum
-.hugo_build.lock
-hugo.exe
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+.claude
+
+# OS
+.DS_Store
+Thumbs.db
+nul

@@ -1,0 +1,30 @@
+---
+title: "Foundation Models for Dynamical Systems"
+image: featured.png
+description: "Exploring transformer-based foundation models pretrained on synthetic data for prediction and control of dynamical systems."
+date: "2024-09-01"
+categories:
+  - Foundation Models
+  - Dynamical Systems
+  - Time Series
+  - Control
+project-type: theme
+---
+
+## Research Overview
+
+Foundation models pretrained on large amounts of data have shown impressive performance across NLP and computer vision. This research line investigates whether the same paradigm applies to **dynamical systems** --- can models pretrained on vast numbers of randomly generated systems generalize to unseen target systems?
+
+We explore transformer-based architectures pretrained entirely on **synthetic data** from randomly generated ordinary differential equations. Our findings show surprising zero-shot generalization to new target systems of various complexities for both **state prediction** and **control** tasks. We also investigate combining these foundation models with classical estimation techniques like the Unscented Kalman Filter (UKF) for state estimation.
+
+This work is funded by the [JUPITER AI Factory (JAIF)](/projects/jaif/), part of the EuroHPC JU initiative.
+
+## Related Publications {#related-publications}
+
+- **On Foundation Models for Dynamical Systems from Purely Synthetic Data** (2024)
+  Ziegler, M., Posada-Moreno, A.F., Solowjow, F., Trimpe, S.
+  [Details](/publications/ziegler-2024-foundation.html) | [arXiv](https://arxiv.org/abs/2412.00395)
+
+- **Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF** (2025)
+  Holtmann, T., Stenger, D., Posada-Moreno, A., Solowjow, F., Trimpe, S. --- *CDC 2025*
+  [Details](/publications/holtmann-2025-sailing.html) | [DOI](https://doi.org/10.1109/CDC57313.2025.11313025)
