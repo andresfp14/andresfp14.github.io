@@ -1,0 +1,35 @@
+---
+title: "On Foundation Models for Dynamical Systems from Purely Synthetic Data"
+author:
+  - "Martin Ziegler"
+  - "Andres Felipe Posada-Moreno"
+  - "Friedrich Solowjow"
+  - "Sebastian Trimpe"
+date: "2024-11-30"
+categories: [preprint]
+description: "Un modelo fundacional basado en transformadores, preentrenado completamente con datos sintéticos de sistemas dinámicos generados aleatoriamente, para tareas de predicción y control."
+external-url: "https://arxiv.org/abs/2412.00395"
+featured: true
+---
+
+## Resumen
+
+Los modelos fundacionales preentrenados con grandes cantidades de datos han mostrado un rendimiento impresionante en una amplia gama de tareas en procesamiento de lenguaje natural y visión por computadora. Motivados por esto, investigamos modelos fundacionales para sistemas dinámicos, preentrenados con datos sintéticos generados a partir de un vasto número de sistemas generados aleatoriamente. Exploramos la generalización zero-shot de estos modelos a sistemas dinámicos objetivo no vistos para las tareas de predicción de estado y control. Encontramos que estos modelos fundacionales son capaces de generalizar sorprendentemente bien a nuevos sistemas objetivo de diversas complejidades, siempre que estos sistemas puedan describirse mediante ecuaciones diferenciales ordinarias. Proporcionamos evidencia inicial de que la calidad del modelo preentrenado se transfiere a la tarea de control posterior y discutimos una gama de posibles aplicaciones.
+
+## Cita
+
+```bibtex
+@article{ziegler2024foundation,
+ author = {Ziegler, Martin and Posada-Moreno, Andres Felipe and Solowjow, Friedrich and Trimpe, Sebastian},
+ date = {2024-11-30},
+ eprint = {2412.00395},
+ eprinttype = {arxiv},
+ title = {On Foundation Models for Dynamical Systems from Purely Synthetic Data},
+ url = {https://arxiv.org/abs/2412.00395}
+}
+```
+
+## Proyectos Relacionados
+
+- [Modelos Fundacionales para Sistemas Dinámicos](/es/projects/fm-dynamical-systems/)
+- [JUPITER AI Factory](/es/projects/jaif/)

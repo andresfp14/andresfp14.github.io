@@ -1,0 +1,35 @@
+---
+title: "Qualitätsüberwachung mit Generative Adversarial Networks als Alternative zur Angussprobe für den Großguss"
+author:
+  - "Felix Weber"
+  - "Yao Yao"
+  - "Lutz Horbach"
+  - "Andrés Felipe Posada Moreno"
+  - "Alexander Bezold"
+  - "Christoph Broeckmann"
+date: "2023-01-01"
+categories: [paper-conference]
+description: "Monitoreo de calidad usando Redes Generativas Adversarias como alternativa a las probetas de colada en la fundición a gran escala."
+doi: "10.48447/WP-2023-266"
+publication-venue: "Tagung Werkstoffprüfung 2023"
+---
+
+## Resumen
+
+Este artículo investiga el uso de Redes Generativas Adversarias (GANs) para el monitoreo de calidad en fundición a gran escala como alternativa al enfoque tradicional de probetas de colada. El método propuesto aprovecha las GANs para modelar las características de calidad esperadas y detectar desviaciones, permitiendo una evaluación de calidad no destructiva en el proceso de fundición.
+
+## Cita
+
+```bibtex
+@inproceedings{weber2023qualitaetsueberwachung,
+ author = {Weber, Felix and Yao, Yao and Horbach, Lutz and Posada Moreno, Andrés Felipe and Bezold, Alexander and Broeckmann, Christoph},
+ booktitle = {Tagung Werkstoffprüfung 2023},
+ date = {2023},
+ doi = {10.48447/WP-2023-266},
+ title = {Qualitätsüberwachung mit Generative Adversarial Networks als Alternative zur Angussprobe für den Großguss}
+}
+```
+
+## Proyectos Relacionados
+
+- [IA Aplicada](/es/projects/applied-ai/)
