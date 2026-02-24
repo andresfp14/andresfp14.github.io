@@ -2,9 +2,6 @@ project:
   output-dir: _site_es
   render:
     - "es/"
-    - "publications/"
-    - "projects/"
-    - "blog/"
     - "!en/"
 
 website:
@@ -13,17 +10,17 @@ website:
   navbar:
     left:
       - text: "Inicio"
-        href: /es/
+        href: es/index.qmd
       - text: "Experiencia"
-        href: /es/experience.html
+        href: es/experience.qmd
       - text: "Publicaciones"
-        href: /es/publications/
+        href: es/publications/index.qmd
       - text: "Investigación y Proyectos"
-        href: /es/projects/
+        href: es/projects/index.qmd
       - text: "Docencia"
-        href: /es/teaching.html
+        href: es/teaching.qmd
       - text: "Blog"
-        href: /es/blog/
+        href: es/blog/index.qmd
     right:
       - icon: mortarboard-fill
         href: https://scholar.google.com/citations?user=BnCVQsUAAAAJ
