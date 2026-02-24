@@ -1,6 +1,7 @@
 project:
   render:
     - "es/"
+    - "!en/"
 
 website:
   title: "Andres Felipe Posada Moreno"

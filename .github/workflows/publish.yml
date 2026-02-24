@@ -37,14 +37,17 @@ jobs:
         with:
           version: "1.6.39"
 
-      - name: Render Quarto site (shared pages)
+      - name: Render Quarto site (shared + English pages)
         run: uv run --no-project quarto render
 
-      - name: Render Quarto site (English)
-        run: uv run --no-project quarto render --profile en
+      - name: Backup English pages before Spanish render
+        run: cp -r _site/en /tmp/en_backup
 
       - name: Render Quarto site (Spanish)
         run: uv run --no-project quarto render --profile es
+
+      - name: Restore English pages after Spanish render
+        run: rm -rf _site/en && cp -r /tmp/en_backup _site/en
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -6,7 +6,7 @@ project:
     - "publications/"
     - "projects/"
     - "blog/"
-    - "!en/"
+    - "en/"
     - "!es/"
     - "!CONTENT_INVENTORY.md"
     - "!LICENSE.md"
