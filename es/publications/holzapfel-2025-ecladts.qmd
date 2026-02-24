@@ -1,0 +1,37 @@
+---
+title: "Concept Extraction for Time Series with ECLAD-ts"
+author:
+  - "Antonia Holzapfel"
+  - "Andrés Felipe Posada-Moreno"
+  - "Sebastian Trimpe"
+date: "2025-04-07"
+categories: [paper-conference]
+description: "Extendiendo ECLAD al dominio de series temporales para la extracción de conceptos en modelos temporales de aprendizaje profundo."
+doi: "10.1007/978-3-032-08317-3_5"
+publication-venue: "xAI 2025, Springer CCIS vol. 2576"
+---
+
+## Resumen
+
+Los modelos de aprendizaje profundo para clasificación de series temporales son cada vez más prevalentes, sin embargo su funcionamiento interno sigue siendo difícil de entender. En el dominio de imágenes, los métodos de extracción de conceptos han demostrado ser efectivos para proporcionar explicaciones globales y comprensibles para humanos del proceso de toma de decisiones de un modelo. En este trabajo, extendemos el método ECLAD (Extracting Concepts with Local Aggregated Descriptors) al dominio de series temporales, introduciendo ECLAD-ts. Nuestro enfoque adapta el pipeline de extracción de conceptos para manejar datos temporales, permitiendo la identificación y localización de conceptos significativos dentro de series temporales. Evaluamos ECLAD-ts en conjuntos de datos de series temporales tanto sintéticos como del mundo real, demostrando su capacidad para extraer conceptos interpretables que se alinean con patrones conocidos en los datos.
+
+## Cita
+
+```bibtex
+@inproceedings{holzapfel2025ecladts,
+ author = {Holzapfel, Antonia and Posada-Moreno, Andrés Felipe and Trimpe, Sebastian},
+ booktitle = {Explainable Artificial Intelligence},
+ date = {2025},
+ doi = {10.1007/978-3-032-08317-3_5},
+ pages = {90--112},
+ publisher = {Springer},
+ series = {Communications in Computer and Information Science},
+ title = {Concept Extraction for Time Series with ECLAD-ts},
+ volume = {2576}
+}
+```
+
+## Proyectos Relacionados
+
+- [Inteligencia Artificial Explicable](/es/projects/xai/)
+- [Internet of Production](/es/projects/iop/)

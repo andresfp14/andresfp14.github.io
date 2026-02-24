@@ -1,0 +1,31 @@
+---
+title: "Pointwise-in-Time Diagnostics for Reinforcement Learning during Training and Runtime"
+author:
+  - "Noel Brindise"
+  - "Andrés Felipe Posada-Moreno"
+  - "Cedric Langbort"
+  - "Sebastian Trimpe"
+date: "2024-06-11"
+categories: [paper-conference]
+description: "Un marco para explicar agentes de RL durante el entrenamiento y la ejecución basado en la definición del comportamiento deseado del agente mediante lógica temporal lineal (LTL)."
+publication-venue: "Proceedings of the 6th Annual Learning for Dynamics & Control Conference (PMLR)"
+external-url: "https://proceedings.mlr.press/v242/brindise24a.html"
+---
+
+## Resumen
+
+La IA Explicable para Planificación (XAIP), un subcampo de XAI, ofrece una variedad de métodos para interpretar el comportamiento de sistemas autónomos. Un método reciente de explicación 'puntual en el tiempo', llamado Evaluación del Estado de Reglas (RSA), caracteriza el comportamiento de un agente en pasos de tiempo individuales en una trayectoria usando reglas de lógica temporal lineal (LTL). En este trabajo, RSA se aplica por primera vez en un contexto de aprendizaje por refuerzo (RL). Primero demostramos los diagnósticos RSA como un complemento sustancial a la curva de recompensa básica de RL, rastreando si y cuándo se cumplen las subtareas especificadas. Luego introducimos un novedoso 'RSA Interactivo' que proporciona al usuario información diagnóstica detallada automáticamente en cualquier punto deseado de una trayectoria. Aplicamos RSA a un agente avanzado en tiempo de ejecución y mostramos que RSA y su nueva variante interactiva constituyen un paso prometedor hacia el RL explicable.
+
+## Cita
+
+```bibtex
+@inproceedings{brindise2024pointwiseintime,
+ author = {Brindise, Noel and Posada-Moreno, Andrés Felipe and Langbort, Cedric and Trimpe, Sebastian},
+ booktitle = {Proceedings of the 6th Annual Learning for Dynamics \& Control Conference},
+ date = {2024-06-11},
+ pages = {694--706},
+ publisher = {PMLR},
+ title = {Pointwise-in-Time Diagnostics for Reinforcement Learning during Training and Runtime},
+ url = {https://proceedings.mlr.press/v242/brindise24a.html}
+}
+```

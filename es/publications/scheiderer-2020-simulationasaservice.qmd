@@ -1,0 +1,41 @@
+---
+title: "Simulation-as-a-Service for Reinforcement Learning Applications by Example of Heavy Plate Rolling Processes"
+author:
+  - "Christian Scheiderer"
+  - "Timo Thun"
+  - "Christian Idzik"
+  - "Andrés Felipe Posada-Moreno"
+  - "Alexander Krämer"
+  - "Johannes Lohmar"
+  - "Gerhard Hirt"
+  - "Tobias Meisen"
+date: "2020-01-01"
+categories: [journal-article]
+description: "Una arquitectura distribuida que permite el entrenamiento remoto de agentes de aprendizaje por refuerzo en una simulación."
+doi: "10.1016/j.promfg.2020.10.126"
+publication-venue: "Procedia Manufacturing"
+external-url: "https://www.sciencedirect.com/science/article/pii/S2351978920319831"
+---
+
+## Resumen
+
+En la industria de producción, la transformación digital habilita un potencial de optimización significativo. El concepto de aprendizaje por refuerzo ofrece un enfoque adecuado para entrenar agentes en el aprendizaje de estrategias de control, avanzando más en la automatización. Si bien las aplicaciones que entrenan directamente en procesos del mundo real son raras debido a restricciones económicas y de seguridad, las simulaciones ofrecen una forma de desarrollar y evaluar agentes antes de su despliegue. En este artículo, se propone una arquitectura distribuida que permite el entrenamiento remoto de agentes de aprendizaje por refuerzo en una simulación. Se muestra que esta arquitectura permite la cooperación entre dos partes interesadas exponiendo una interfaz técnica adecuada a la simulación. La arquitectura propuesta se implementa para una simulación del proceso de conformado de metales de múltiples pasos de laminación de placas gruesas.
+
+## Cita
+
+```bibtex
+@article{scheiderer2020simulationasaservice,
+ author = {Scheiderer, Christian and Thun, Timo and Idzik, Christian and Posada-Moreno, Andrés Felipe and Krämer, Alexander and Lohmar, Johannes and Hirt, Gerhard and Meisen, Tobias},
+ date = {2020-01-01},
+ doi = {10.1016/j.promfg.2020.10.126},
+ journaltitle = {Procedia Manufacturing},
+ pages = {897--903},
+ title = {Simulation-as-a-Service for Reinforcement Learning Applications by Example of Heavy Plate Rolling Processes},
+ url = {https://www.sciencedirect.com/science/article/pii/S2351978920319831},
+ volume = {51}
+}
+```
+
+## Proyectos Relacionados
+
+- [Internet of Production](/es/projects/iop/)

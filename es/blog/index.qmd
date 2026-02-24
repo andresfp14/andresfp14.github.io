@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: "*.qmd"
+  type: default
+  sort:
+    - "date desc"
+  fields: [date, title, description]
+---
+
+Próximamente -- mantente atento para publicaciones sobre XAI, modelos fundacionales e investigación en IA aplicada.

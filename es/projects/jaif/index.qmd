@@ -1,0 +1,31 @@
+---
+title: "JUPITER AI Factory (JAIF)"
+image: ../../../projects/jaif/featured.png
+description: "Fábrica de IA de EuroHPC construida alrededor del primer supercomputador exaescala de Europa, habilitando investigación de modelos fundacionales para sistemas dinámicos."
+date: "2025-03-01"
+categories:
+  - Foundation Models
+  - Exascale Computing
+  - Dynamical Systems
+project-type: funded
+---
+
+## Descripción del Proyecto
+
+La [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) es una de las 19 Fábricas de IA Europeas establecidas bajo el [EuroHPC Joint Undertaking](https://eurohpc-ju.europa.eu/). JAIF está construida alrededor de [JUPITER](https://www.fz-juelich.de/en/ias/jsc/jupiter), el primer supercomputador exaescala de Europa, alojado en el Forschungszentrum Jülich.
+
+El [RWTH AI Center](https://ai.rwth-aachen.de/) es un socio del consorcio central en JAIF, contribuyendo al desarrollo de modelos fundacionales y al desarrollo de talento dentro de la iniciativa.
+
+### Mi Rol
+
+En el [Instituto de Ciencia de Datos en Ingeniería Mecánica (DSME)](https://www.dsme.rwth-aachen.de/), mi investigación dentro de JAIF se enfoca en **Modelos Fundacionales para Sistemas Dinámicos** --- desarrollando modelos basados en transformadores preentrenados con datos sintéticos para la predicción y control de sistemas dinámicos. Este trabajo explora cómo el preentrenamiento a gran escala puede habilitar la generalización zero-shot a sistemas no vistos, con aplicaciones en control y estimación de estado.
+
+## Publicaciones Relacionadas {#related-publications}
+
+- **On Foundation Models for Dynamical Systems from Purely Synthetic Data** (2024)
+  Ziegler, M., Posada-Moreno, A.F., Solowjow, F., Trimpe, S.
+  [Detalles](/es/publications/ziegler-2024-foundation.html) | [arXiv](https://arxiv.org/abs/2412.00395)
+
+- **Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF** (2025)
+  Holtmann, T., Stenger, D., Posada-Moreno, A., Solowjow, F., Trimpe, S. --- *CDC 2025*
+  [Detalles](/es/publications/holtmann-2025-sailing.html) | [DOI](https://doi.org/10.1109/CDC57313.2025.11313025)

@@ -1,0 +1,40 @@
+---
+title: "ECLAD: Extracting Concepts with Local Aggregated Descriptors"
+author:
+  - "Andrés Felipe Posada-Moreno"
+  - "Nikita Surya"
+  - "Sebastian Trimpe"
+date: "2023-11-22"
+categories: [journal-article]
+description: "Un método novedoso para la extracción y localización automática de conceptos basado en representaciones obtenidas mediante agregaciones píxel a píxel de mapas de activación de CNN."
+doi: "10.1016/j.patcog.2023.110146"
+publication-venue: "Pattern Recognition"
+external-url: "https://www.sciencedirect.com/science/article/pii/S0031320323008439"
+featured: true
+---
+
+## Resumen
+
+Las redes neuronales convolucionales (CNN) se utilizan cada vez más en sistemas críticos, donde la robustez y la alineación son cruciales. En este contexto, el campo de la inteligencia artificial explicable ha propuesto la generación de explicaciones de alto nivel del proceso de predicción de las CNN a través de la extracción de conceptos. Si bien estos métodos pueden detectar si un concepto está presente o no en una imagen, no pueden determinar su ubicación. Además, una comparación justa de dichos enfoques es difícil debido a la falta de procedimientos de validación adecuados. Para abordar estos problemas, proponemos un método novedoso para la extracción y localización automática de conceptos basado en representaciones obtenidas mediante agregaciones píxel a píxel de mapas de activación de CNN. Además, introducimos un proceso para la comparación cuantitativa y validación de técnicas de extracción de conceptos basado en conjuntos de datos sintéticos con anotaciones píxel a píxel de sus componentes principales, mitigando posibles sesgos de confirmación inducidos por la inspección visual humana. La experimentación extensiva en conjuntos de datos tanto sintéticos como del mundo real demuestra que nuestro método supera a las alternativas del estado del arte.
+
+## Cita
+
+```bibtex
+@article{posada-moreno2023eclad,
+ author = {Posada-Moreno, Andrés Felipe and Surya, Nikita and Trimpe, Sebastian},
+ date = {2023-11-22},
+ doi = {10.1016/j.patcog.2023.110146},
+ issn = {0031-3203},
+ journaltitle = {Pattern Recognition},
+ volume = {147},
+ pages = {110146},
+ keywords = {Concept extraction, Convolutional neural networks, Explainable artificial intelligence},
+ title = {ECLAD: Extracting Concepts with Local Aggregated Descriptors},
+ url = {https://www.sciencedirect.com/science/article/pii/S0031320323008439}
+}
+```
+
+## Proyectos Relacionados
+
+- [Inteligencia Artificial Explicable](/es/projects/xai/)
+- [Internet of Production](/es/projects/iop/)

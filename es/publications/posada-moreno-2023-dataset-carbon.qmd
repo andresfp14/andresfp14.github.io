@@ -1,0 +1,37 @@
+---
+title: "Image Classification Dataset on Carbon Fiber Reinforcement Quality Control"
+author:
+  - "Andrés Felipe Posada-Moreno"
+  - "Kai Müller"
+  - "Florian Brillowski"
+  - "Friedrich Solowjow"
+  - "Thomas Gries"
+  - "Sebastian Trimpe"
+date: "2023-05-25"
+categories: [dataset]
+description: "Un conjunto de datos de clasificación de imágenes disponible públicamente para el control de calidad de refuerzos de fibra de carbono, alojado en Zenodo."
+doi: "10.5281/zenodo.7970490"
+external-url: "https://zenodo.org/records/7970490"
+---
+
+## Descripción
+
+Este conjunto de datos contiene imágenes para tareas de clasificación en el contexto del control de calidad de refuerzos de fibra de carbono. Fue creado como parte de nuestra investigación sobre extracción escalable de conceptos en la Industria 4.0 y está disponible públicamente en Zenodo para apoyar la reproducibilidad y la investigación futura.
+
+## Cita
+
+```bibtex
+@misc{posada-moreno2023datasetcarbon,
+ author = {Posada-Moreno, Andrés Felipe and Müller, Kai and Brillowski, Florian and Solowjow, Friedrich and Gries, Thomas and Trimpe, Sebastian},
+ date = {2023},
+ doi = {10.5281/zenodo.7970490},
+ publisher = {Zenodo},
+ title = {Image Classification Dataset on Carbon Fiber Reinforcement Quality Control},
+ url = {https://zenodo.org/records/7970490}
+}
+```
+
+## Proyectos Relacionados
+
+- [Internet of Production](/es/projects/iop/)
+- [Inteligencia Artificial Explicable](/es/projects/xai/)

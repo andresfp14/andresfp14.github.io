@@ -1,0 +1,36 @@
+---
+title: "Objectifying Machine Setup and Parameter Selection in Expert Knowledge Dependent Industries Using Invertible Neural Networks"
+author:
+  - "Kai Müller"
+  - "Andrés Posada-Moreno"
+  - "Lukas Pelzer"
+  - "Thomas Gries"
+date: "2023-01-01"
+categories: [paper-conference]
+description: "Uso de redes neuronales invertibles y conocimiento experto para la predicción de parámetros en aplicaciones industriales."
+doi: "10.1007/978-3-031-18326-3_29"
+publication-venue: "FAIM 2022 / Flexible Automation and Intelligent Manufacturing (Springer, Lecture Notes in Mechanical Engineering)"
+---
+
+## Resumen
+
+La industria textil es una de las más antiguas y grandes del mundo. Los campos de aplicación de los productos textiles son diversos. Aunque las tecnologías para la fabricación de textiles están ampliamente investigadas, la industria aún depende en gran medida del conocimiento experto. Hasta la fecha, los ajustes manuales de procesos y máquinas y el control de calidad son la norma más que la excepción. El termofijado se utiliza en la cadena de procesos para disolver o introducir selectivamente tensiones del proceso de tejido y preparar los productos para la impresión digital. La correcta configuración de la máquina depende de un gran número de parámetros de materiales, procesos y ambientales. Para cada producto, la máquina debe ser configurada nuevamente por un ingeniero textil experimentado. Para facilitar la capacitación de nuevos trabajadores y acortar el proceso de configuración, este estudio tiene como objetivo usar aprendizaje automático para facilitar y objetivar la configuración del proceso de termofijado. Los parámetros de la máquina se generan usando una red neuronal invertible (INN) basada en parámetros objetivo predefinidos. Los resultados pueden usarse para identificar tendencias en las configuraciones de la máquina y responder en consecuencia.
+
+## Cita
+
+```bibtex
+@inproceedings{muller2023objectifying,
+ author = {Müller, Kai and Posada-Moreno, Andrés and Pelzer, Lukas and Gries, Thomas},
+ booktitle = {Flexible Automation and Intelligent Manufacturing: The Human-Data-Technology Nexus},
+ date = {2023},
+ doi = {10.1007/978-3-031-18326-3_29},
+ pages = {293--300},
+ publisher = {Springer International Publishing},
+ series = {Lecture Notes in Mechanical Engineering},
+ title = {Objectifying Machine Setup and Parameter Selection in Expert Knowledge Dependent Industries Using Invertible Neural Networks}
+}
+```
+
+## Proyectos Relacionados
+
+- [Internet of Production](/es/projects/iop/)

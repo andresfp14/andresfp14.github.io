@@ -1,0 +1,17 @@
+---
+title: "Publicaciones"
+listing:
+  contents: "*.qmd"
+  type: table
+  sort:
+    - "date desc"
+  fields: [date, title, author, publication-venue, categories]
+  field-display-names:
+    categories: "Tipo"
+    publication-venue: "Revista/Conferencia"
+  filter-ui: [date, categories]
+  sort-ui: true
+  page-size: 20
+---
+
+Consulte a continuación mi lista completa de publicaciones académicas. Puede filtrar por tipo de publicación u ordenar por fecha.

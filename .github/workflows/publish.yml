@@ -44,12 +44,7 @@ jobs:
         run: uv run --no-project quarto render --profile es
 
       - name: Merge Spanish pages into site
-        run: |
-          cp -r _site_es/es _site/es
-          cp -r _site_es/publications _site/es/publications
-          cp -r _site_es/projects _site/es/projects
-          cp -r _site_es/blog _site/es/blog
-          cp -r _site_es/site_libs _site/es/site_libs
+        run: cp -r _site_es/es _site/es
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

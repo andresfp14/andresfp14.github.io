@@ -1,0 +1,41 @@
+---
+title: "Scale-Preserving Automatic Concept Extraction (SPACE)"
+author:
+  - "Andrés Felipe Posada-Moreno"
+  - "Lukas Kreisköther"
+  - "Tassilo Glander"
+  - "Sebastian Trimpe"
+date: "2023-11-01"
+categories: [journal-article]
+description: "Introducimos el algoritmo de Extracción Automática de Conceptos con Preservación de Escala (SPACE), una técnica de vanguardia para CNNs enfocada en aplicaciones industriales."
+doi: "10.1007/s10994-023-06373-2"
+publication-venue: "Machine Learning"
+external-url: "https://doi.org/10.1007/s10994-023-06373-2"
+featured: true
+---
+
+## Resumen
+
+Las Redes Neuronales Convolucionales (CNN) se han convertido en una opción común para el control de calidad industrial, así como para otras aplicaciones críticas en la Industria 4.0. Cuando estas CNN se comportan de maneras inesperadas, pueden surgir consecuencias severas, como pérdidas económicas o un mayor riesgo para la vida humana. Las técnicas de extracción de conceptos pueden aplicarse para aumentar la fiabilidad y transparencia de las CNN mediante la generación de explicaciones globales para modelos de redes neuronales entrenados. Las características decisivas de los conjuntos de datos de imagen en el control de calidad a menudo dependen de la escala de la característica. Sin embargo, los métodos existentes de extracción de conceptos no representan correctamente la escala. Para abordar este problema, introducimos el algoritmo de Extracción Automática de Conceptos con Preservación de Escala (SPACE), como una técnica alternativa de vanguardia para CNNs, enfocada en aplicaciones industriales. SPACE está específicamente diseñado para superar los problemas mencionados evitando cambios de escala durante todo el proceso de extracción de conceptos.
+
+## Cita
+
+```bibtex
+@article{posada-moreno2023scalepreserving,
+ author = {Posada-Moreno, Andrés Felipe and Kreisköther, Lukas and Glander, Tassilo and Trimpe, Sebastian},
+ date = {2023-11-01},
+ doi = {10.1007/s10994-023-06373-2},
+ issn = {1573-0565},
+ journaltitle = {Machine Learning},
+ number = {11},
+ pages = {4495--4525},
+ title = {Scale-Preserving Automatic Concept Extraction (SPACE)},
+ url = {https://doi.org/10.1007/s10994-023-06373-2},
+ volume = {112}
+}
+```
+
+## Proyectos Relacionados
+
+- [Inteligencia Artificial Explicable](/es/projects/xai/)
+- [Internet of Production](/es/projects/iop/)
