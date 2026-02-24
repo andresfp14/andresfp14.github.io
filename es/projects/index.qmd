@@ -1,0 +1,36 @@
+---
+title: "Investigación y Proyectos"
+listing:
+  - id: themes
+    contents:
+      - "*/index.qmd"
+    type: grid
+    sort:
+      - "date desc"
+    fields: [image, title, description, date]
+    grid-columns: 3
+    include:
+      project-type: "theme"
+  - id: funded
+    contents:
+      - "*/index.qmd"
+    type: grid
+    sort:
+      - "date desc"
+    fields: [image, title, description, date]
+    grid-columns: 3
+    include:
+      project-type: "funded"
+---
+
+Mi investigación se encuentra en la intersección de los **Modelos Fundacionales para Sistemas Dinámicos** y la **Inteligencia Artificial Explicable (XAI)**. Actualmente me enfoco en modelos basados en transformadores preentrenados con datos sintéticos para la predicción y control de sistemas dinámicos, mientras continúo desarrollando métodos de extracción de conceptos que hacen las redes neuronales profundas más transparentes y confiables. A continuación puede encontrar mis principales temas de investigación y proyectos financiados.
+
+## Temas de Investigación
+
+:::{#themes}
+:::
+
+## Proyectos Financiados
+
+:::{#funded}
+:::

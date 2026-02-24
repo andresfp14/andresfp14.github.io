@@ -1,0 +1,30 @@
+---
+title: "Modelos Fundacionales para Sistemas Dinámicos"
+image: ../../../projects/fm-dynamical-systems/featured.png
+description: "Explorando modelos fundacionales basados en transformadores preentrenados con datos sintéticos para la predicción y control de sistemas dinámicos."
+date: "2024-09-01"
+categories:
+  - Foundation Models
+  - Dynamical Systems
+  - Time Series
+  - Control
+project-type: theme
+---
+
+## Descripción de la Investigación
+
+Los modelos fundacionales preentrenados con grandes cantidades de datos han mostrado un rendimiento impresionante en PLN y visión por computadora. Esta línea de investigación investiga si el mismo paradigma se aplica a **sistemas dinámicos** --- ¿pueden modelos preentrenados en vastas cantidades de sistemas generados aleatoriamente generalizar a sistemas objetivo no vistos?
+
+Exploramos arquitecturas basadas en transformadores preentrenadas completamente con **datos sintéticos** de ecuaciones diferenciales ordinarias generadas aleatoriamente. Nuestros hallazgos muestran una generalización zero-shot sorprendente a nuevos sistemas objetivo de diversas complejidades tanto para tareas de **predicción de estado** como de **control**. También investigamos la combinación de estos modelos fundacionales con técnicas de estimación clásicas como el Filtro de Kalman Unscented (UKF) para estimación de estado.
+
+Este trabajo está financiado por la [JUPITER AI Factory (JAIF)](/es/projects/jaif/), parte de la iniciativa EuroHPC.
+
+## Publicaciones Relacionadas {#related-publications}
+
+- **On Foundation Models for Dynamical Systems from Purely Synthetic Data** (2024)
+  Ziegler, M., Posada-Moreno, A.F., Solowjow, F., Trimpe, S.
+  [Detalles](/es/publications/ziegler-2024-foundation.html) | [arXiv](https://arxiv.org/abs/2412.00395)
+
+- **Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF** (2025)
+  Holtmann, T., Stenger, D., Posada-Moreno, A., Solowjow, F., Trimpe, S. --- *CDC 2025*
+  [Detalles](/es/publications/holtmann-2025-sailing.html) | [DOI](https://doi.org/10.1109/CDC57313.2025.11313025)
