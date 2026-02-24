@@ -1,0 +1,64 @@
+---
+title: "Experiencia"
+toc: false
+---
+
+::: {.experience-entry}
+### Investigador Postdoctoral
+::: {.experience-meta}
+**DSME - Universidad RWTH Aachen** | Alemania | Sep 2024 -- Presente
+:::
+
+- **Modelos Fundacionales para Sistemas Dinámicos**: Investigación de modelos fundacionales basados en transformadores preentrenados con datos sintéticos para predicción y control de sistemas dinámicos. Financiado por la [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory), parte de la iniciativa EuroHPC.
+- **Supervisión de Estudiantes**: Supervisión de tesis de licenciatura y maestría, así como orientación de estudiantes de doctorado.
+- **Investigación en Inteligencia Artificial Explicable**: Especializado en métodos de explicabilidad global (extracción de conceptos) para redes neuronales profundas.
+
+**Financiado por:** [JAIF](/projects/jaif/) | **Investigación:** [Modelos Fundacionales para Sistemas Dinámicos](/projects/fm-dynamical-systems/) | [XAI](/projects/xai/)
+:::
+
+::: {.experience-entry}
+### Investigador Científico y Estudiante de Doctorado
+::: {.experience-meta}
+**DSME - Universidad RWTH Aachen** | Alemania | Abr 2021 -- Sep 2024
+:::
+
+- **Docente**: Profesor del seminario "Learning-based Control Seminar".
+- **Supervisión de Estudiantes**: Supervisión de tesis de licenciatura y maestría.
+- **Investigación en Inteligencia Artificial Explicable**: Especializado en métodos de explicabilidad global (extracción de conceptos) para redes neuronales profundas.
+- **Organización de Serie de Seminarios**: Organización del [Research Seminar on AI (RSAI)](https://www.ai.rwth-aachen.de/cms/ki/veranstaltungen/events/~bemeze/research-seminar-on-ai-rsai-/?lidx=1).
+- **Clúster de Excelencia**: Co-líder del grupo de expertos en IA del clúster de excelencia "Internet of Production".
+
+**Financiado por:** [Internet of Production (IoP)](/projects/iop/) | **Investigación:** [XAI](/projects/xai/)
+:::
+
+::: {.experience-entry}
+### Investigador Científico
+::: {.experience-meta}
+**IMA (Laboratorio de Cibernética) - Universidad RWTH Aachen** | Alemania | Abr 2018 -- Abr 2021
+:::
+
+- **Docente**: Profesor de la asignatura "Artificial Intelligence and Data Analytics for Engineers".
+- **Supervisión de Estudiantes**: Supervisión de tesis de licenciatura y maestría.
+- **Investigación en Inteligencia Artificial Aplicada**: Especializado en la aplicación de redes neuronales a escenarios de datos de alta dimensionalidad.
+
+**Financiado por:** [QUISS](/projects/quiss/) | **Investigación:** [IA Aplicada](/projects/applied-ai/)
+:::
+
+::: {.experience-entry}
+### Analista de Tecnología
+::: {.experience-meta}
+**Asimetrix** | Colombia | Oct 2014 -- Oct 2017
+:::
+
+- **Investigación y Desarrollo**: Enfocado en soluciones de IA e IoT en la industria de producción de proteínas. Especializado en el desarrollo y prueba de dispositivos IoT y servicios de IA en la nube.
+- **Conferencista**: Presentaciones sobre tecnologías emergentes y procesos de toma de decisiones basados en datos.
+:::
+
+::: {.experience-entry}
+### Docente de Medio Tiempo
+::: {.experience-meta}
+**Universidad EIA** | Colombia | Jul 2014 -- Nov 2014
+:::
+
+- **Docencia**: Profesor de la asignatura "Diseño Mecatrónico" para estudiantes de octavo semestre de pregrado.
+:::

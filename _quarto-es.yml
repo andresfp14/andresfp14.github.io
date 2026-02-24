@@ -1,0 +1,44 @@
+project:
+  render:
+    - "es/"
+
+website:
+  title: "Andres Felipe Posada Moreno"
+  description: "Investigador Postdoctoral en XAI y Modelos Fundacionales en la Universidad RWTH Aachen"
+
+  navbar:
+    left:
+      - text: "Inicio"
+        href: es/index.qmd
+      - text: "Experiencia"
+        href: es/experience.qmd
+      - text: "Publicaciones"
+        href: /publications/
+      - text: "Investigación y Proyectos"
+        href: /projects/
+      - text: "Docencia"
+        href: es/teaching.qmd
+      - text: "Blog"
+        href: /blog/
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=BnCVQsUAAAAJ
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/andresfp14
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/andresfelipeposadamoreno/
+        aria-label: LinkedIn
+      - icon: translate
+        text: "EN"
+        href: /en/
+        aria-label: English version
+
+  page-footer:
+    left: |
+      &copy; 2025 Andres Felipe Posada Moreno. Licenciado bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+    right: |
+      Construido con [Quarto](https://quarto.org/).
+
+lang: es

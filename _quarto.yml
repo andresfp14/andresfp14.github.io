@@ -2,10 +2,12 @@ project:
   type: website
   output-dir: _site
   render:
-    - "*.qmd"
+    - "index.qmd"
     - "publications/"
     - "projects/"
     - "blog/"
+    - "!en/"
+    - "!es/"
     - "!CONTENT_INVENTORY.md"
     - "!LICENSE.md"
     - "!README.md"
@@ -19,15 +21,15 @@ website:
   navbar:
     left:
       - text: "Home"
-        href: index.qmd
+        href: /en/
       - text: "Experience"
-        href: experience.qmd
+        href: /en/experience.html
       - text: "Publications"
         href: publications/index.qmd
       - text: "Research and Projects"
         href: projects/index.qmd
       - text: "Teaching"
-        href: teaching.qmd
+        href: /en/teaching.html
       - text: "Blog"
         href: blog/index.qmd
     right:
@@ -40,6 +42,10 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/andresfelipeposadamoreno/
         aria-label: LinkedIn
+      - icon: translate
+        text: "ES"
+        href: /es/
+        aria-label: Versión en español
 
   page-footer:
     left: |
