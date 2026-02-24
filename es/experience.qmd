@@ -13,7 +13,7 @@ toc: false
 - **Supervisión de Estudiantes**: Supervisión de tesis de licenciatura y maestría, así como orientación de estudiantes de doctorado.
 - **Investigación en Inteligencia Artificial Explicable**: Especializado en métodos de explicabilidad global (extracción de conceptos) para redes neuronales profundas.
 
-**Financiado por:** [JAIF](/projects/jaif/) | **Investigación:** [Modelos Fundacionales para Sistemas Dinámicos](/projects/fm-dynamical-systems/) | [XAI](/projects/xai/)
+**Financiado por:** [JAIF](/es/projects/jaif/) | **Investigación:** [Modelos Fundacionales para Sistemas Dinámicos](/es/projects/fm-dynamical-systems/) | [XAI](/es/projects/xai/)
 :::
 
 ::: {.experience-entry}
@@ -28,7 +28,7 @@ toc: false
 - **Organización de Serie de Seminarios**: Organización del [Research Seminar on AI (RSAI)](https://www.ai.rwth-aachen.de/cms/ki/veranstaltungen/events/~bemeze/research-seminar-on-ai-rsai-/?lidx=1).
 - **Clúster de Excelencia**: Co-líder del grupo de expertos en IA del clúster de excelencia "Internet of Production".
 
-**Financiado por:** [Internet of Production (IoP)](/projects/iop/) | **Investigación:** [XAI](/projects/xai/)
+**Financiado por:** [Internet of Production (IoP)](/es/projects/iop/) | **Investigación:** [XAI](/es/projects/xai/)
 :::
 
 ::: {.experience-entry}
@@ -41,7 +41,7 @@ toc: false
 - **Supervisión de Estudiantes**: Supervisión de tesis de licenciatura y maestría.
 - **Investigación en Inteligencia Artificial Aplicada**: Especializado en la aplicación de redes neuronales a escenarios de datos de alta dimensionalidad.
 
-**Financiado por:** [QUISS](/projects/quiss/) | **Investigación:** [IA Aplicada](/projects/applied-ai/)
+**Financiado por:** [QUISS](/es/projects/quiss/) | **Investigación:** [IA Aplicada](/es/projects/applied-ai/)
 :::
 
 ::: {.experience-entry}
