@@ -1,0 +1,39 @@
+---
+title: "Towards Cargo Wagons Brake Health Scoring through Image Processing"
+author:
+  - "Andres Felipe Posada-Moreno"
+  - "Thomas Otte"
+  - "Damir Pehar"
+  - "Marc Haßler"
+  - "Holger Bartels"
+  - "Anas Abdelrazeq"
+  - "Frank Hees"
+date: "2022-01-01"
+categories: [paper-conference]
+description: "Un sistema para la puntuación automatizada de frenos de vagones de carga mediante procesamiento de imágenes y algoritmos de aprendizaje profundo."
+publication-venue: "ICPRAM"
+doi: "10.5220/0010824300003122"
+pdf-url: "https://www.scitepress.org/Papers/2022/108243/108243.pdf"
+---
+
+## Resumen
+
+El aumento de la logística integrada está generando la integración progresiva de los sistemas de transporte ferroviario a escala global. Esto plantea el desafío de la operación segura y conforme de un número creciente de activos. Dentro de este contexto, la inspección de vagones de carga en servicio se vuelve cada vez más importante. Entre los componentes del vagón, las pastillas de freno son esenciales y deben ser constantemente inspeccionadas y cambiadas oportunamente antes de cualquier fallo. Esta publicación presenta un sistema novedoso para la puntuación automatizada de frenos de vagones de carga mediante procesamiento de imágenes y algoritmos de aprendizaje profundo. El objetivo principal de este sistema es proporcionar información perspicaz que pueda mejorar la observabilidad de los activos, así como permitir la toma de decisiones aumentada en los procesos de inspección de mantenimiento.
+
+## Cita
+
+```bibtex
+@inproceedings{posada-moreno2022cargo,
+ author = {Posada-Moreno, Andres Felipe and Otte, Thomas and Pehar, Damir and Haßler, Marc and Bartels, Holger and Abdelrazeq, Anas and Hees, Frank},
+ booktitle = {ICPRAM},
+ date = {2022},
+ doi = {10.5220/0010824300003122},
+ pages = {423--431},
+ title = {Towards Cargo Wagons Brake Health Scoring through Image Processing},
+ url = {https://www.scitepress.org/Papers/2022/108243/108243.pdf}
+}
+```
+
+## Proyectos Relacionados
+
+- [QUISS](/es/projects/quiss/)

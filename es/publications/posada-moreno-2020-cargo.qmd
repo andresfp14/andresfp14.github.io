@@ -1,0 +1,38 @@
+---
+title: "Cargo Wagon Structural Health Estimation Using Computer Vision"
+author:
+  - "A. F. Posada-Moreno"
+  - "C. Klein"
+  - "M. Haßler"
+  - "D. Pehar"
+  - "A. F. Solvay"
+  - "C. P. Kohlschein"
+date: "2020-01-01"
+categories: [paper-conference]
+description: "Una visión de un sistema de soporte para la evaluación del estado de vagones, en colaboración con DB Cargo."
+doi: "10.18154/RWTH-2020-02698"
+publication-venue: "8th Transport Research Arena, TRA2020"
+pdf-url: "https://publications.rwth-aachen.de/record/784705/files/784705.pdf"
+poster-url: "https://bmdv.bund.de/SharedDocs/DE/Anlage/DG/mFUND/Quiss-e-poster.pdf?__blob=publicationFile"
+---
+
+## Resumen
+
+Las empresas ferroviarias europeas deben garantizar la seguridad de sus operaciones así como el cumplimiento de las normas europeas. Esto incluye el diagnóstico y mantenimiento de cada vagón durante sus operaciones. Este proceso es reactivo y basado en el tiempo, lo que impide un horario de trabajo óptimo de los vagones y dificulta la gestión del ciclo de vida de sus componentes. Esta publicación describe la visión de un sistema de soporte para la evaluación del estado de los vagones, una descripción detallada de la metodología subyacente así como los resultados de los pasos de adquisición de imágenes y detección de objetos. Dicho sistema tiene como objetivo asistir el proceso general de mantenimiento proporcionando información pertinente sobre el estado de los vagones así como resultados de diagnóstico del análisis automatizado de componentes.
+
+## Cita
+
+```bibtex
+@inproceedings{posada-moreno2020cargo,
+ author = {Posada-Moreno, A. F. and Klein, C. and Haßler, M. and Pehar, D. and Solvay, A. F. and Kohlschein, C. P.},
+ booktitle = {8th Transport Research Arena, TRA2020},
+ date = {2020},
+ doi = {10.18154/RWTH-2020-02698},
+ title = {Cargo Wagon Structural Health Estimation Using Computer Vision},
+ url = {https://publications.rwth-aachen.de/record/784705/files/784705.pdf}
+}
+```
+
+## Proyectos Relacionados
+
+- [QUISS](/es/projects/quiss/)

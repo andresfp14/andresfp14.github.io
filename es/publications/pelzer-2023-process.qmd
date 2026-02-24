@@ -1,0 +1,40 @@
+---
+title: "Process Parameter Prediction for Fused Deposition Modeling Using Invertible Neural Networks"
+author:
+  - "Lukas Pelzer"
+  - "Andrés Felipe Posada-Moreno"
+  - "Kai Müller"
+  - "Christoph Greb"
+  - "Christian Hopmann"
+date: "2023-01-01"
+categories: [journal-article]
+description: "Predicción de parámetros de proceso para modelado por deposición fundida usando redes neuronales invertibles."
+doi: "10.3390/polym15081884"
+publication-venue: "Polymers (MDPI)"
+external-url: "https://www.mdpi.com/2073-4360/15/8/1884"
+---
+
+## Resumen
+
+La fabricación aditiva ha revolucionado el prototipado y la producción a pequeña escala en los últimos años. Al crear piezas capa por capa, se establece una tecnología de producción sin herramientas que permite la adaptación rápida del proceso de fabricación y la personalización del producto. Sin embargo, la libertad geométrica de las tecnologías viene con un gran número de parámetros de proceso, especialmente en el Modelado por Deposición Fundida (FDM), todos los cuales influyen en las propiedades de la pieza resultante. Dado que estos parámetros muestran interdependencias y no linealidades, elegir un conjunto adecuado para crear las propiedades deseadas no es trivial. Este estudio demuestra el uso de Redes Neuronales Invertibles (INN) para generar parámetros de proceso objetivamente. Al especificar la pieza deseada en las categorías de propiedades mecánicas, propiedades ópticas y tiempo de fabricación, la INN demostrada genera parámetros de proceso capaces de replicar de cerca la pieza deseada. Las pruebas de validación demuestran la precisión de la solución con propiedades medidas que alcanzan las propiedades deseadas hasta un 99.96% y una precisión media del 85.34%.
+
+## Cita
+
+```bibtex
+@article{pelzer2023process,
+ author = {Pelzer, Lukas and Posada-Moreno, Andrés Felipe and Müller, Kai and Greb, Christoph and Hopmann, Christian},
+ date = {2023-01},
+ doi = {10.3390/polym15081884},
+ journaltitle = {Polymers},
+ number = {8},
+ pages = {1884},
+ publisher = {Multidisciplinary Digital Publishing Institute},
+ title = {Process Parameter Prediction for Fused Deposition Modeling Using Invertible Neural Networks},
+ url = {https://www.mdpi.com/2073-4360/15/8/1884},
+ volume = {15}
+}
+```
+
+## Proyectos Relacionados
+
+- [Internet of Production](/es/projects/iop/)

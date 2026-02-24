@@ -1,0 +1,40 @@
+---
+title: "Scalable Concept Extraction in Industry 4.0"
+author:
+  - "Andrés Felipe Posada-Moreno"
+  - "Kai Müller"
+  - "Florian Brillowski"
+  - "Friedrich Solowjow"
+  - "Thomas Gries"
+  - "Sebastian Trimpe"
+date: "2023-01-01"
+categories: [paper-conference]
+description: "Aplicando extracción de conceptos (ECLAD) para explicar CNNs en casos de uso industriales."
+doi: "10.1007/978-3-031-44070-0_26"
+publication-venue: "Explainable Artificial Intelligence (xAI Conference, Springer CCIS)"
+featured: true
+---
+
+## Resumen
+
+La industria 4.0 está aprovechando las tecnologías digitales y las técnicas de aprendizaje automático para conectar y optimizar los procesos de fabricación. Central a esta idea es la capacidad de transformar datos sin procesar en conocimiento comprensible para la toma de decisiones fiable basada en datos. Las Redes Neuronales Convolucionales (CNN) han sido instrumentales en el procesamiento de datos de imagen, sin embargo, su naturaleza de 'caja negra' complica la comprensión de su proceso de predicción. En este contexto, avances recientes en el campo de la Inteligencia Artificial Explicable (XAI) han propuesto la extracción y localización de conceptos, es decir, qué señales visuales intervienen en el proceso de predicción de las CNN. Este artículo aborda la aplicación de métodos de extracción de conceptos (CE) a escenarios de la industria 4.0. Para ello, modificamos una técnica recientemente desarrollada, 'Extracting Concepts with Local Aggregated Descriptors' (ECLAD), mejorando su escalabilidad. Específicamente, proponemos un procedimiento novedoso para calcular la importancia de los conceptos. Posteriormente, demostramos el potencial de los métodos CE aplicándolos en tres casos de uso industriales en el contexto del control de calidad.
+
+## Cita
+
+```bibtex
+@inproceedings{posada-moreno2023scalable,
+ author = {Posada-Moreno, Andrés Felipe and Müller, Kai and Brillowski, Florian and Solowjow, Friedrich and Gries, Thomas and Trimpe, Sebastian},
+ booktitle = {Explainable Artificial Intelligence},
+ date = {2023},
+ doi = {10.1007/978-3-031-44070-0_26},
+ pages = {512--535},
+ publisher = {Springer Nature Switzerland},
+ series = {Communications in Computer and Information Science},
+ title = {Scalable Concept Extraction in Industry 4.0}
+}
+```
+
+## Proyectos Relacionados
+
+- [Inteligencia Artificial Explicable](/es/projects/xai/)
+- [Internet of Production](/es/projects/iop/)

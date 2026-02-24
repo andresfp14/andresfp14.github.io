@@ -1,0 +1,74 @@
+---
+title: "Actionable Artificial Intelligence for the Future of Production"
+author:
+  - "Mohamed Behery"
+  - "Philipp Brauner"
+  - "Hans Aoyang Zhou"
+  - "Merih Seran Uysal"
+  - "Vladimir Samsonov"
+  - "Martin Bellgardt"
+  - "Florian Brillowski"
+  - "Tobias Brockhoff"
+  - "Anahita Farhang Ghahfarokhi"
+  - "Lars Gleim"
+  - "Leon Michel Gorissen"
+  - "Marco Grochowski"
+  - "Thomas Henn"
+  - "Elisa Iacomini"
+  - "Thomas Kaster"
+  - "István Koren"
+  - "Martin Liebenberg"
+  - "Leon Reinsch"
+  - "Liam Tirpitz"
+  - "Minh Trinh"
+  - "Andres Felipe Posada-Moreno"
+  - "Luca Liehner"
+  - "Thomas Schemmer"
+  - "Luisa Vervier"
+  - "Marcus Völker"
+  - "Philipp Walderich"
+  - "Song Zhang"
+  - "Christian Brecher"
+  - "Robert H. Schmitt"
+  - "Stefan Decker"
+  - "Thomas Gries"
+  - "Constantin Leon Häfner"
+  - "Michael Herty"
+  - "Matthias Jarke"
+  - "Stefan Kowalewski"
+  - "Torsten W. Kuhlen"
+  - "Johannes Henrich Schleifenbaum"
+  - "Sebastian Trimpe"
+  - "Wil M. P. van der Aalst"
+  - "Martina Ziefle"
+  - "Gerhard Lakemeyer"
+date: "2023-01-01"
+categories: [book-chapter]
+description: "Compilación de fundamentos y aplicaciones de IA y sistemas basados en datos en el contexto de la Industria 4.0."
+doi: "10.1007/978-3-030-98062-7_4-1"
+publication-venue: "Internet of Production: Fundamentals, Applications and Proceedings (Springer)"
+external-url: "https://doi.org/10.1007/978-3-030-98062-7_4-1"
+---
+
+## Resumen
+
+El Internet of Production (IoP) promete ser la respuesta a los principales desafíos del Internet Industrial de las Cosas (IIoT) y la Industria 4.0. La falta de canales de comunicación inter-empresariales y estándares, la necesidad de mayor seguridad en escenarios de Colaboración Humano-Robot (HRC), y la opacidad de los sistemas de apoyo a la toma de decisiones basados en datos son solo algunos de los desafíos que abordamos en este capítulo. Describimos la comunicación e intercambio de datos dentro del World Wide Lab (WWL) y agentes autónomos que consultan el WWL, el cual está construido sobre los Digital Shadows (DS). Categorizamos nuestros enfoques en métodos de IA accionable que apoyan la toma de decisiones en dominios de producción.
+
+## Cita
+
+```bibtex
+@incollection{behery2023actionable,
+ author = {Behery, Mohamed and Brauner, Philipp and Zhou, Hans Aoyang and Uysal, Merih Seran and Samsonov, Vladimir and Bellgardt, Martin and Brillowski, Florian and Brockhoff, Tobias and Ghahfarokhi, Anahita Farhang and Gleim, Lars and Gorissen, Leon Michel and Grochowski, Marco and Henn, Thomas and Iacomini, Elisa and Kaster, Thomas and Koren, István and Liebenberg, Martin and Reinsch, Leon and Tirpitz, Liam and Trinh, Minh and Posada-Moreno, Andres Felipe and Liehner, Luca and Schemmer, Thomas and Vervier, Luisa and Völker, Marcus and Walderich, Philipp and Zhang, Song and Brecher, Christian and Schmitt, Robert H. and Decker, Stefan and Gries, Thomas and Häfner, Constantin Leon and Herty, Michael and Jarke, Matthias and Kowalewski, Stefan and Kuhlen, Torsten W. and Schleifenbaum, Johannes Henrich and Trimpe, Sebastian and van der Aalst, Wil M. P. and Ziefle, Martina and Lakemeyer, Gerhard},
+ booktitle = {Internet of Production: Fundamentals, Applications and Proceedings},
+ date = {2023},
+ doi = {10.1007/978-3-030-98062-7_4-1},
+ pages = {1--46},
+ publisher = {Springer International Publishing},
+ title = {Actionable Artificial Intelligence for the Future of Production},
+ url = {https://doi.org/10.1007/978-3-030-98062-7_4-1}
+}
+```
+
+## Proyectos Relacionados
+
+- [Internet of Production](/es/projects/iop/)

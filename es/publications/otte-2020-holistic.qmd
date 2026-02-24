@@ -1,0 +1,36 @@
+---
+title: "Holistic Data Infrastructure and Analytics System for Rail Freight Transport"
+author:
+  - "Thomas Otte"
+  - "Holger Bartels"
+  - "Andres Felipe Posada Moreno"
+  - "Georg Wittenburg"
+  - "Marc Haßler"
+date: "2020-01-01"
+categories: [paper-conference]
+description: "Introducción de una infraestructura de datos holística y un marco de análisis para la mejora de los sistemas de transporte ferroviario de mercancías, en colaboración con Deutsche Bahn."
+doi: "10.18154/RWTH-2020-06991"
+publication-venue: "14th ITS European Congress 2020"
+pdf-url: "http://publications.rwth-aachen.de/record/793532/files/793532.pdf"
+---
+
+## Resumen
+
+En los últimos años, la digitalización ha progresado fuertemente en varios dominios. Esto incluye la digitalización de datos previamente analógicos y la captura de datos de máquinas o valores de sensores. Además, cantidades cada vez mayores de datos abiertos, como datos meteorológicos o ferroviarios, están disponibles. Si bien la conexión de estas diferentes fuentes de datos heterogéneas permite, por ejemplo, el mantenimiento predictivo o la optimización de la planificación de flotas, conectarlas adecuadamente aún plantea un gran desafío. Este trabajo propone un sistema novedoso para el transporte ferroviario de mercancías, a través del cual las diversas fuentes de datos pueden combinarse para mejorar la calidad del sistema de transporte ferroviario general con la ayuda de microservicios. El sistema fue desarrollado dentro del proyecto QUISS financiado públicamente y la viabilidad y el valor agregado fueron evaluados con base en varios casos de uso.
+
+## Cita
+
+```bibtex
+@inproceedings{otte2020holistic,
+ author = {Otte, Thomas and Bartels, Holger and Posada Moreno, Andres Felipe and Wittenburg, Georg and Haßler, Marc},
+ booktitle = {14th ITS European Congress 2020},
+ date = {2020},
+ doi = {10.18154/RWTH-2020-06991},
+ title = {Holistic Data Infrastructure and Analytics System for Rail Freight Transport},
+ url = {http://publications.rwth-aachen.de/record/793532/files/793532.pdf}
+}
+```
+
+## Proyectos Relacionados
+
+- [QUISS](/es/projects/quiss/)

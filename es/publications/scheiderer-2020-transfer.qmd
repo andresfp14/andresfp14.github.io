@@ -1,0 +1,36 @@
+---
+title: "Transfer of Hierarchical Reinforcement Learning Structures for Robotic Manipulation Tasks"
+author:
+  - "Christian Scheiderer"
+  - "Malte Mosbach"
+  - "Andrés Felipe Posada-Moreno"
+  - "Tobias Meisen"
+date: "2020-12-01"
+categories: [paper-conference]
+description: "Investigando la posibilidad de reutilizar políticas de bajo nivel para mejorar la eficiencia del entrenamiento al aprender tareas de manipulación con un robot industrial."
+doi: "10.1109/CSCI51800.2020.00091"
+publication-venue: "2020 International Conference on Computational Science and Computational Intelligence (CSCI)"
+external-url: "https://ieeexplore.ieee.org/document/9458186"
+---
+
+## Resumen
+
+Si bien es evidente que la transferencia de conocimiento entre tareas es beneficiosa para la eficiencia del entrenamiento, la aplicación de agentes de aprendizaje por refuerzo profundo entrenados para resolver nuevas tareas no es trivial. Especialmente cuando las tareas tienen estructuras diferentes, el reentrenamiento y el ajuste fino no son necesariamente beneficiosos. En cambio, a menudo el enfoque más conveniente es entrenar un nuevo agente desde cero. Una solución potencial para reutilizar efectivamente el conocimiento aprendido puede encontrarse en el aprendizaje por refuerzo jerárquico. En este artículo investigamos la posibilidad de reutilizar políticas de bajo nivel para mejorar la eficiencia del entrenamiento al aprender tareas de manipulación con un robot industrial.
+
+## Cita
+
+```bibtex
+@inproceedings{scheiderer2020transfer,
+ author = {Scheiderer, Christian and Mosbach, Malte and Posada-Moreno, Andrés Felipe and Meisen, Tobias},
+ booktitle = {2020 International Conference on Computational Science and Computational Intelligence (CSCI)},
+ date = {2020-12},
+ doi = {10.1109/CSCI51800.2020.00091},
+ pages = {504--509},
+ title = {Transfer of Hierarchical Reinforcement Learning Structures for Robotic Manipulation Tasks},
+ url = {https://ieeexplore.ieee.org/document/9458186}
+}
+```
+
+## Proyectos Relacionados
+
+- [Internet of Production](/es/projects/iop/)
