@@ -32,7 +32,7 @@ website:
         aria-label: LinkedIn
       - icon: translate
         text: "EN"
-        href: /
+        href: /en/
         aria-label: English version
 
   page-footer:
