@@ -37,8 +37,8 @@ jobs:
         with:
           version: "1.6.39"
 
-      - name: Render Quarto site (shared + English pages)
-        run: uv run --no-project quarto render
+      - name: Render Quarto site (English + shared pages)
+        run: uv run --no-project quarto render --profile en
 
       - name: Render Quarto site (Spanish)
         run: uv run --no-project quarto render --profile es

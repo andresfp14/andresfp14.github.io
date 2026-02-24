@@ -2,9 +2,9 @@ project:
   output-dir: _site_es
   render:
     - "es/"
+    - "!en/"
 
 website:
-  title: "Andres Felipe Posada Moreno"
   description: "Investigador Postdoctoral en XAI y Modelos Fundacionales en la Universidad RWTH Aachen"
 
   navbar:

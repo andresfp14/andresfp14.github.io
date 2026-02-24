@@ -1,5 +1,6 @@
 # Quarto
 _site/
+_site_en/
 _site_es/
 .quarto/
 **/*.quarto_ipynb
