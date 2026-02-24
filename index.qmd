@@ -1,18 +1,10 @@
 ---
-title: "Andres Felipe Posada Moreno"
-image: assets/avatar.jpg
-about:
-  id: hero-heading
-  template: trestles
-  image-shape: round
-  image-width: 200px
+pagetitle: "Andres Felipe Posada Moreno"
 toc: false
+navbar: false
+search: false
 ---
 
-:::{#hero-heading}
-
-**Postdoc Researcher** --- Foundation Models for Dynamical Systems & eXplainable AI
-
-[English](/en/) | [Español](/es/)
-
-:::
+```{=html}
+<meta http-equiv="refresh" content="0; url=/en/">
+```
