@@ -1,0 +1,81 @@
+---
+title: "Andres Felipe Posada Moreno"
+subtitle: "Investigador Postdoctoral — Modelos Fundacionales para Sistemas Dinámicos e Inteligencia Artificial Explicable"
+image: ../assets/avatar.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 200px
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:andres.posada@dsme.rwth-aachen.de
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=BnCVQsUAAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/andresfp14
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andresfelipeposadamoreno/
+---
+
+:::{#hero-heading}
+
+¡Hola! Desde **septiembre de 2024**, soy **investigador postdoctoral** en el [Instituto de Ciencia de Datos en Ingeniería Mecánica](https://www.dsme.rwth-aachen.de/cms/~ibtrg/DSME/lidx/1/) (DSME) de la [Universidad RWTH Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1). Completé mi doctorado bajo la supervisión de [Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/DSME/Das-Institut/Team/~jlolt/Prof-Sebastian-Trimpe/?allou=1), y fui investigador doctoral asociado en el [Clúster de Excelencia "Internet of Production"](https://www.iop.rwth-aachen.de/cms/~gpfz/produktionstechnik/?lidx=1) financiado por la [DFG](https://gepris.dfg.de/gepris/projekt/390621612?language=en).
+
+Actualmente, me enfoco en **Modelos Fundacionales para Sistemas Dinámicos**, explorando modelos basados en transformadores preentrenados con datos sintéticos para tareas de predicción y control. Esta investigación está financiada por la [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory), parte de la iniciativa EuroHPC. También continúo mi trabajo en **Inteligencia Artificial Explicable (XAI)**, desarrollando métodos para la extracción y localización de conceptos en redes neuronales profundas.
+
+Anteriormente, completé una licenciatura en **ingeniería mecatrónica** en la [Universidad EIA](https://www.eia.edu.co/#), una maestría en **ingeniería** en [Arts et Métiers ParisTech](https://artsetmetiers.fr/en), trabajé en aplicaciones agroindustriales de IoT e IA en [Asimetrix](https://asimetrix.co/), y trabajé como investigador en IA aplicada en el [Laboratorio de Cibernética IMA, Universidad RWTH Aachen](https://cybernetics-lab.de/en/%C3%BCber-uns), en el contexto del proyecto [QUISS](/projects/quiss/).
+
+:::
+
+## Intereses de Investigación
+
+- [Modelos Fundacionales para Sistemas Dinámicos](/projects/fm-dynamical-systems/)
+  Modelos basados en transformadores preentrenados con datos sintéticos para predicción y control de sistemas dinámicos.
+- [Inteligencia Artificial Explicable](/projects/xai/)
+  Métodos de extracción y localización de conceptos para comprender redes neuronales profundas.
+- [IA Aplicada](/projects/applied-ai/)
+  Aplicaciones industriales de IA en manufactura, control de calidad y transporte.
+
+## Proyectos
+
+- [JUPITER AI Factory (JAIF)](/projects/jaif/)
+  Fábrica de IA de EuroHPC construida alrededor del primer supercomputador exaescala de Europa.
+- [Internet of Production (IoP)](/projects/iop/)
+  Clúster de excelencia financiado por la DFG sobre el uso de IA en ingeniería de producción.
+- [QUISS](/projects/quiss/)
+  Uso de IA para reconocimiento de daños en transporte ferroviario.
+
+## Formación Académica
+
+- **Doctorado en Inteligencia Artificial** --- Universidad RWTH Aachen, Alemania (2024)
+- **Maestría en Ingeniería General, Especialización en Mecatrónica** --- Arts et Métiers ParisTech, Francia (2014)
+- **Licenciatura en Ingeniería Mecatrónica** --- Universidad EIA, Colombia (2012)
+
+## Publicaciones Seleccionadas
+
+- **Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF** (2025)
+  Holtmann, T., Stenger, D., Posada-Moreno, A., Solowjow, F., Trimpe, S. --- *CDC 2025*
+  [Detalles](/publications/holtmann-2025-sailing.html) | [DOI](https://doi.org/10.1109/CDC57313.2025.11313025)
+
+- **On Foundation Models for Dynamical Systems from Purely Synthetic Data** (2024)
+  Ziegler, M., Posada-Moreno, A.F., Solowjow, F., Trimpe, S.
+  [Detalles](/publications/ziegler-2024-foundation.html) | [arXiv](https://arxiv.org/abs/2412.00395)
+
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors** (2023)
+  Posada-Moreno, A.F., Surya, N., Trimpe, S. --- *Pattern Recognition*
+  [Detalles](/publications/posada-moreno-2023-eclad.html) | [DOI](https://doi.org/10.1016/j.patcog.2023.110146)
+
+- **Scalable Concept Extraction in Industry 4.0** (2023)
+  Posada-Moreno, A.F., Müller, K., Brillowski, F., Solowjow, F., Gries, T., Trimpe, S. --- *xAI Conference*
+  [Detalles](/publications/posada-moreno-2023-scalable.html) | [DOI](https://doi.org/10.1007/978-3-031-44070-0_26)
+
+## Contacto
+
+- **Email**: [andres.posada@dsme.rwth-aachen.de](mailto:andres.posada@dsme.rwth-aachen.de)
+- **Ubicación**: Aachen, NRW 52070, Alemania
+- [Google Scholar](https://scholar.google.com/citations?user=BnCVQsUAAAAJ) | [GitHub](https://github.com/andresfp14) | [LinkedIn](https://www.linkedin.com/in/andresfelipeposadamoreno/)

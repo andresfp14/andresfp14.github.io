@@ -37,8 +37,11 @@ jobs:
         with:
           version: "1.6.39"
 
-      - name: Render Quarto site
+      - name: Render Quarto site (English)
         run: uv run --no-project quarto render
+
+      - name: Render Quarto site (Spanish)
+        run: uv run --no-project quarto render --profile es
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

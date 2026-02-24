@@ -1,0 +1,155 @@
+---
+title: "Docencia"
+toc: true
+---
+
+## Clases
+
+::: {.experience-entry}
+### Learning-based Control Seminar
+::: {.experience-meta}
+**DSME - Universidad RWTH Aachen** | WS2025, WS2023, WS2022, WS2021
+:::
+:::
+
+::: {.experience-entry}
+### Artificial Intelligence and Data Analytics for Engineers
+::: {.experience-meta}
+**IMA (Laboratorio de Cibernética) - Universidad RWTH Aachen** | SS2020, SS2019
+:::
+:::
+
+::: {.experience-entry}
+### Seminarios de la Academia Internacional RWTH
+::: {.experience-meta}
+**Universidad RWTH Aachen** | 2018 -- 2019
+:::
+
+- "Production Technology Meets Industry 4.0" — Escuela de verano de 1 semana (agosto 2019)
+- "Smart Factories" — Escuela de invierno de 1 semana (febrero 2019)
+- "Smart Engineering for Smart Factories" — Escuela de invierno de 1 semana (junio 2018)
+- "Industry 4.0" — Escuela de invierno de 1 semana (abril 2018)
+:::
+
+::: {.experience-entry}
+### Diseño Mecatrónico
+::: {.experience-meta}
+**Universidad EIA** | Colombia | 2014
+:::
+:::
+
+## Charlas
+
+::: {.experience-entry}
+### Invertible Neural Networks in Production
+::: {.experience-meta}
+**Keio International Mini-Symposium** | Noviembre 2020
+:::
+:::
+
+## Tesis Supervisadas
+
+::: {.experience-entry}
+### Por definir
+::: {.experience-meta}
+**Lukas Haverbeck** | Tesis de Maestría | 2026
+:::
+:::
+
+::: {.experience-entry}
+### Foundation Models for Industrial Time Series
+::: {.experience-meta}
+**Noah Drein** | Tesis de Maestría | 2026
+:::
+:::
+
+::: {.experience-entry}
+### Semi-Supervised Learning Approaches for Fault Detection and Isolation in Automotive Powertrain Systems
+::: {.experience-meta}
+**Jonas Kneppe** | Tesis de Maestría | Co-supervisor: Tobias Brinkmann | 2025
+:::
+:::
+
+::: {.experience-entry}
+### Combining Foundation Models with Classical State Estimation
+::: {.experience-meta}
+**Tobin Holtmann** | Tesis de Maestría | Co-supervisor: David Stenger | 2025
+:::
+:::
+
+::: {.experience-entry}
+### Foundation Models for Dynamical Systems
+::: {.experience-meta}
+**Martin Ziegler** | Tesis de Maestría | Co-supervisor: Friedrich Solowjow | 2024
+:::
+:::
+
+::: {.experience-entry}
+### AI Enhanced Fatigue Strength Prediction for Ductile Cast Iron
+::: {.experience-meta}
+**Yao Yao** | Tesis de Maestría | Co-supervisor: Felix Weber | 2022
+:::
+:::
+
+::: {.experience-entry}
+### Application of Explainable Artificial Intelligence (XAI) for Time Series Data in Industrial Robotics
+::: {.experience-meta}
+**Tobias Kastenholz** | Tesis de Maestría | Co-supervisor: Minh Trinh | 2022
+:::
+:::
+
+::: {.experience-entry}
+### Classifying deformation behavior in crash analysis using spatial-temporal information from few samples
+::: {.experience-meta}
+**Revan Kumar Dhanasekaran** | Tesis de Maestría | 2021
+:::
+:::
+
+::: {.experience-entry}
+### Establishing Interpretability of Neural Networks for Time Series Sensory Data Analysis
+::: {.experience-meta}
+**Nils Hütten** | Tesis de Maestría | 2021
+:::
+:::
+
+::: {.experience-entry}
+### Assessment of a machine learning model for defect detection in steel production
+::: {.experience-meta}
+**Antonia Holzapfel** | Tesis de Licenciatura | 2021
+:::
+:::
+
+::: {.experience-entry}
+### Model-Based Object Tracking using Robust Gaussian Filters on RGB-D Images of a Moving Camera
+::: {.experience-meta}
+**Tobias Vogel** | Tesis de Licenciatura | Co-supervisor: Henrik Hose | 2021
+:::
+:::
+
+::: {.experience-entry}
+### An Automatic Approach for Global Interpretability of Image-Based Classification
+::: {.experience-meta}
+**Nikita Surya** | Tesis de Maestría | 2020
+:::
+:::
+
+::: {.experience-entry}
+### Extracting Human-Understandable Highlevel Concepts from Deep Learning Based Classification Models for Industrial Use Cases Utilizing Concept Activation Vectors
+::: {.experience-meta}
+**Lukas Kreisköether** | Tesis de Maestría | 2020
+:::
+:::
+
+::: {.experience-entry}
+### Analysis of Hierarchical Reinforcement Learning for Robotics
+::: {.experience-meta}
+**Malte Mosbach** | Tesis de Maestría | 2020
+:::
+:::
+
+::: {.experience-entry}
+### Investigation of Behavior in Deep Reinforcement Learning Agents via Activation Pattern Analysis
+::: {.experience-meta}
+**Melanie Lu** | Tesis de Maestría | 2019
+:::
+:::
