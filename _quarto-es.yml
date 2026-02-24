@@ -13,15 +13,15 @@ website:
   navbar:
     left:
       - text: "Inicio"
-        href: es/index.qmd
+        href: /es/
       - text: "Experiencia"
-        href: es/experience.qmd
+        href: /es/experience.html
       - text: "Publicaciones"
         href: /es/publications/
       - text: "Investigación y Proyectos"
         href: /es/projects/
       - text: "Docencia"
-        href: es/teaching.qmd
+        href: /es/teaching.html
       - text: "Blog"
         href: /es/blog/
     right:
