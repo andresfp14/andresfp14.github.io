@@ -8,4 +8,4 @@ listing:
   fields: [date, title, description]
 ---
 
-Próximamente -- mantente atento para publicaciones sobre XAI, modelos fundacionales e investigación en IA aplicada.
+Próximamente — esté atento a publicaciones sobre XAI, modelos fundacionales e investigación en IA aplicada.

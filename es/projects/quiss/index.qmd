@@ -12,13 +12,13 @@ project-type: funded
 
 ## Descripción del Proyecto
 
-El objetivo del proyecto QUISS era crear aplicaciones basadas en datos utilizando métodos contemporáneos de ciencia de datos e inteligencia artificial. Estas aplicaciones fueron diseñadas para mejorar o asistir en la planificación y mantenimiento de vehículos ferroviarios. Para lograr esto, se estableció un sistema que integraba diversas fuentes de datos, incluyendo sensores de impacto de vagones de mercancías, imágenes de puentes de cámaras, información de ubicación GPS y diversos datos de inventario.
+El objetivo del proyecto QUISS era crear aplicaciones basadas en datos utilizando métodos contemporáneos de ciencia de datos e inteligencia artificial. Estas aplicaciones fueron diseñadas para mejorar o asistir en la planificación y mantenimiento de vehículos ferroviarios. Para lograr esto, se estableció un sistema que integraba diversas fuentes de datos, incluyendo sensores de impacto de vagones de mercancías, imágenes de pórticos de cámaras, información de ubicación GPS y diversos datos de inventario.
 
 Utilizando este repositorio de datos, el proyecto pudo establecer e integrar experimentalmente diferentes escenarios para un mantenimiento mejorado y centrado en datos.
 
 Este proyecto fue financiado por el [Ministerio Federal de Transporte e Infraestructura Digital (Alemania)](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/qualitaetssteigerung-des-schienenverkehrs-durch-intelligentedatenbasierte-schadmustererkennung-quiss.html) entre 2018 y 2021. Fue una colaboración entre DB Cargo AG, Inspirient GmbH y la Universidad RWTH Aachen.
 
-La implementación de estos escenarios condujo a mejoras notables en la disponibilidad de vehículos ferroviarios. Gracias a los datos de imágenes de puentes de cámaras, ahora es posible detectar anomalías en los vehículos de manera más temprana, permitiendo un mantenimiento oportuno.
+La implementación de estos escenarios condujo a mejoras notables en la disponibilidad de vehículos ferroviarios. Gracias a los datos de imágenes de pórticos de cámaras, ahora es posible detectar anomalías en los vehículos de manera más temprana, permitiendo un mantenimiento oportuno.
 
 La mejora de los datos de telemetría de vagones de mercancías con detalles semánticos ha aumentado la precisión del kilometraje estimado, extendiendo así la vida operativa de los vehículos ferroviarios. Además, la combinación de datos GPS con información de la red de rutas ha mejorado la precisión del seguimiento de las rutas de los vehículos.
 

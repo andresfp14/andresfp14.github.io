@@ -18,7 +18,7 @@ Desarrollamos métodos que generan **explicaciones globales** para modelos de re
 
 - **ECLAD** (Extracting Concepts with Local Aggregated Descriptors): Un método para la extracción y localización automática de conceptos basado en agregaciones píxel a píxel de mapas de activación de CNN, con un marco de validación riguroso usando conjuntos de datos sintéticos.
 
-- **SPACE** (Scale-Preserving Automatic Concept Extraction): Un algoritmo diseñado para aplicaciones industriales que preserva la información de escala durante todo el proceso de extracción de conceptos, crítico para tareas de control de calidad donde el tamaño de las características importa.
+- **SPACE** (Scale-Preserving Automatic Concept Extraction): Un algoritmo diseñado para aplicaciones industriales que preserva la información de escala durante todo el proceso de extracción de conceptos, crítico para tareas de control de calidad donde la escala de las características es determinante.
 
 - **ECLAD-ts**: Extensión de la extracción de conceptos al dominio de series temporales, permitiendo la identificación y localización de conceptos temporales significativos.
 

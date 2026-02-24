@@ -13,7 +13,7 @@ project-type: theme
 
 ## Descripción de la Investigación
 
-Los modelos fundacionales preentrenados con grandes cantidades de datos han mostrado un rendimiento impresionante en PLN y visión por computadora. Esta línea de investigación investiga si el mismo paradigma se aplica a **sistemas dinámicos** --- ¿pueden modelos preentrenados en vastas cantidades de sistemas generados aleatoriamente generalizar a sistemas objetivo no vistos?
+Los modelos fundacionales preentrenados con grandes cantidades de datos han mostrado un rendimiento impresionante en procesamiento de lenguaje natural y visión por computadora. Esta línea de investigación investiga si el mismo paradigma se aplica a **sistemas dinámicos** --- ¿pueden modelos preentrenados en vastas cantidades de sistemas generados aleatoriamente generalizar a sistemas objetivo no vistos?
 
 Exploramos arquitecturas basadas en transformadores preentrenadas completamente con **datos sintéticos** de ecuaciones diferenciales ordinarias generadas aleatoriamente. Nuestros hallazgos muestran una generalización zero-shot sorprendente a nuevos sistemas objetivo de diversas complejidades tanto para tareas de **predicción de estado** como de **control**. También investigamos la combinación de estos modelos fundacionales con técnicas de estimación clásicas como el Filtro de Kalman Unscented (UKF) para estimación de estado.
 
