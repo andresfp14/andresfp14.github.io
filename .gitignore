@@ -1,5 +1,7 @@
 # Quarto
 _site/
+_site_en/
+_site_es/
 .quarto/
 **/*.quarto_ipynb
 
@@ -21,3 +23,5 @@ uv.lock
 .DS_Store
 Thumbs.db
 nul
+
+/.quarto/

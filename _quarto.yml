@@ -1,13 +1,6 @@
 project:
   type: website
-  output-dir: _site
   render:
-    - "index.qmd"
-    - "publications/"
-    - "projects/"
-    - "blog/"
-    - "!en/"
-    - "!es/"
     - "!CONTENT_INVENTORY.md"
     - "!LICENSE.md"
     - "!README.md"
@@ -15,43 +8,7 @@ project:
 
 website:
   title: "Andres Felipe Posada Moreno"
-  description: "Postdoc Researcher in XAI and Foundation Models at RWTH Aachen University"
   site-url: "https://andresfp14.github.io/"
-
-  navbar:
-    left:
-      - text: "Home"
-        href: /en/
-      - text: "Experience"
-        href: /en/experience.html
-      - text: "Publications"
-        href: publications/index.qmd
-      - text: "Research and Projects"
-        href: projects/index.qmd
-      - text: "Teaching"
-        href: /en/teaching.html
-      - text: "Blog"
-        href: blog/index.qmd
-    right:
-      - icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=BnCVQsUAAAAJ
-        aria-label: Google Scholar
-      - icon: github
-        href: https://github.com/andresfp14
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/andresfelipeposadamoreno/
-        aria-label: LinkedIn
-      - icon: translate
-        text: "ES"
-        href: /es/
-        aria-label: Versión en español
-
-  page-footer:
-    left: |
-      &copy; 2025 Andres Felipe Posada Moreno. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-    right: |
-      Built with [Quarto](https://quarto.org/).
 
   search:
     location: navbar

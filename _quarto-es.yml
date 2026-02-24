@@ -1,9 +1,10 @@
 project:
+  output-dir: _site_es
   render:
     - "es/"
+    - "!en/"
 
 website:
-  title: "Andres Felipe Posada Moreno"
   description: "Investigador Postdoctoral en XAI y Modelos Fundacionales en la Universidad RWTH Aachen"
 
   navbar:
@@ -40,5 +41,3 @@ website:
       &copy; 2025 Andres Felipe Posada Moreno. Licenciado bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
     right: |
       Construido con [Quarto](https://quarto.org/).
-
-lang: es
