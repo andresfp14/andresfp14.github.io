@@ -49,6 +49,7 @@ jobs:
           cp -r _site_es/publications _site/es/publications
           cp -r _site_es/projects _site/es/projects
           cp -r _site_es/blog _site/es/blog
+          cp -r _site_es/site_libs _site/es/site_libs
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
